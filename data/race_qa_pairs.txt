@@ -1,0 +1,231 @@
+Passage-Question-Answer Set 1:
+Context: Pit-a-pat. Pit-a-pat. It's raining. "I want to go outside and play, Mum," Robbie says, "When can the rain stop?" His mum doesn't know what to say. She hopes the rain can stop, too. "You can watch TV w...
+Q: What does Robbie want to do on the rainy day?
+A: Go out.
+
+Passage-Question-Answer Set 2:
+Context: Pit-a-pat. Pit-a-pat. It's raining. "I want to go outside and play, Mum," Robbie says, "When can the rain stop?" His mum doesn't know what to say. She hopes the rain can stop, too. "You can watch TV w...
+Q: Robbie has a_day that day.
+A: happy
+
+Passage-Question-Answer Set 3:
+Context: Pit-a-pat. Pit-a-pat. It's raining. "I want to go outside and play, Mum," Robbie says, "When can the rain stop?" His mum doesn't know what to say. She hopes the rain can stop, too. "You can watch TV w...
+Q: Which of the following is TRUE according to the passage?
+A: The color of Robbie's raincoat is red.
+
+Passage-Question-Answer Set 4:
+Context: Pit-a-pat. Pit-a-pat. It's raining. "I want to go outside and play, Mum," Robbie says, "When can the rain stop?" His mum doesn't know what to say. She hopes the rain can stop, too. "You can watch TV w...
+Q: Which is the best title for the passage?
+A: Fun in the rain
+
+Passage-Question-Answer Set 5:
+Context: Henry was from the United States and he had come to London for a holiday.
+One day he was not feeling well.  So he was to the clerk at the desk of his hotel and said, "I want to see a doctor. Can you g...
+Q: Henry came to London  _  .
+A: to find a job
+
+Passage-Question-Answer Set 6:
+Context: Henry was from the United States and he had come to London for a holiday.
+One day he was not feeling well.  So he was to the clerk at the desk of his hotel and said, "I want to see a doctor. Can you g...
+Q: He wanted to see a good doctor because  _  .
+A: he was feeling bad
+
+Passage-Question-Answer Set 7:
+Context: Henry was from the United States and he had come to London for a holiday.
+One day he was not feeling well.  So he was to the clerk at the desk of his hotel and said, "I want to see a doctor. Can you g...
+Q: The first visit to the doctor cost  _   later visit.
+A: more than
+
+Passage-Question-Answer Set 8:
+Context: Henry was from the United States and he had come to London for a holiday.
+One day he was not feeling well.  So he was to the clerk at the desk of his hotel and said, "I want to see a doctor. Can you g...
+Q: Henry tried to make the doctor believe that  _  .
+A: It is the second time for him to go to his clinic .
+
+Passage-Question-Answer Set 9:
+Context: Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.
+There is a desk and a chair in her room. Her ba...
+Q: Mary's room is   _  .
+A: big and nice
+
+Passage-Question-Answer Set 10:
+Context: Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.
+There is a desk and a chair in her room. Her ba...
+Q: The volleyball is   _  .
+A: under the bed
+
+Passage-Question-Answer Set 11:
+Context: Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.
+There is a desk and a chair in her room. Her ba...
+Q: Mary likes   _  .
+A: listening to music
+
+Passage-Question-Answer Set 12:
+Context: Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.
+There is a desk and a chair in her room. Her ba...
+Q: Mr. Wang-------   _  .
+A: is Mary's Chinese teacher
+
+Passage-Question-Answer Set 13:
+Context: Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.
+There is a desk and a chair in her room. Her ba...
+Q: Which is right ?
+A: English and Chinese are Mary's favorite subjects
+
+Passage-Question-Answer Set 14:
+Context: Dear Fang,
+How are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon....
+Q: Harry came to London from   _  .
+A: China
+
+Passage-Question-Answer Set 15:
+Context: Dear Fang,
+How are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon....
+Q: Two months ago Harry came to London   _  .
+A: alone
+
+Passage-Question-Answer Set 16:
+Context: Dear Fang,
+How are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon....
+Q: Harry has studied in London   _  .
+A: for about two months
+
+Passage-Question-Answer Set 17:
+Context: Dear Fang,
+How are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon....
+Q: Last weekend Harry was impressed by   _  .
+A: the modern skyscrapers
+
+Passage-Question-Answer Set 18:
+Context: Dear Fang,
+How are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon....
+Q: English people   _  .
+A: do not often shake hands with their friends when they meet
+
+Passage-Question-Answer Set 19:
+Context: A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you ...
+Q: In 1918, Captain Hedley fell off his plane in the sky, but soon he fell back into it again! You may read about this story in Chapter   _  .
+A: 2
+
+Passage-Question-Answer Set 20:
+Context: A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you ...
+Q: One morning in New York City, people saw a man walking on a rope between two tall buildings. You may read this story in Chapter   _  .
+A: 3
+
+Passage-Question-Answer Set 21:
+Context: A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you ...
+Q: The Earl feeds his dogs better than most people do. This story may begin on Page   _  .
+A: 3
+
+Passage-Question-Answer Set 22:
+Context: A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you ...
+Q: Sarah thought she would die as soon as her house was finished. So she kept on adding more and more rooms. Her story may appear on Page   _  .
+A: 53
+
+Passage-Question-Answer Set 23:
+Context: A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you ...
+Q: In Chapter 4, Robert could not enter any hospital room because of   _  .
+A: his size
+
+Passage-Question-Answer Set 24:
+Context: It is said that all dreams serve a purpose . While there is no agreement among scientists about why we dream, there are many ideas about the different kinds of dreams we have.
+One common kind of dream...
+Q: When might a person daydream?
+A: While listening to an uninteresting talk.
+
+Passage-Question-Answer Set 25:
+Context: It is said that all dreams serve a purpose . While there is no agreement among scientists about why we dream, there are many ideas about the different kinds of dreams we have.
+One common kind of dream...
+Q: How do we know if we are lucid dreaming?
+A: We can control what happens in the dream.
+
+Passage-Question-Answer Set 26:
+Context: It is said that all dreams serve a purpose . While there is no agreement among scientists about why we dream, there are many ideas about the different kinds of dreams we have.
+One common kind of dream...
+Q: What is the best title of the passage?
+A: What Dreams Mean
+
+Passage-Question-Answer Set 27:
+Context: There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.
+One day, Mrs. Green goes to the supermark...
+Q: . Where's the supermarket?
+A: Near Mrs. Green's house.
+
+Passage-Question-Answer Set 28:
+Context: There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.
+One day, Mrs. Green goes to the supermark...
+Q: . Who likes biscuits?
+A: Tim and Mimi.
+
+Passage-Question-Answer Set 29:
+Context: There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.
+One day, Mrs. Green goes to the supermark...
+Q: . Mimi likes   _  .
+A: fish
+
+Passage-Question-Answer Set 30:
+Context: There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.
+One day, Mrs. Green goes to the supermark...
+Q: . Does Mrs. Green buy a bag of rice?
+A: Yes, she does.
+
+Passage-Question-Answer Set 31:
+Context: There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.
+One day, Mrs. Green goes to the supermark...
+Q: . Who helps Mrs. Green take the rice?
+A: Mr. Green.
+
+Passage-Question-Answer Set 32:
+Context: My nine-year-old daughter, Maria, is in Grade Two. Every evening we get into homework battles  . When she get home, homework is the last thing she likes to do. I think she should do her homework just ...
+Q: The woman's daughter is   _  .
+A: nine years old
+
+Passage-Question-Answer Set 33:
+Context: My nine-year-old daughter, Maria, is in Grade Two. Every evening we get into homework battles  . When she get home, homework is the last thing she likes to do. I think she should do her homework just ...
+Q: The woman thinks that her daughter should do her homework  _  .
+A: by herself
+
+Passage-Question-Answer Set 34:
+Context: "Cool" is a word with many meanings. It means a little cold at first. As time changes, the word gets many different meanings. We can use "cool" when we talk about something wonderful or somebody looki...
+Q: The meaning of the word "cool"   _  .
+A: changes a lot
+
+Passage-Question-Answer Set 35:
+Context: "Cool" is a word with many meanings. It means a little cold at first. As time changes, the word gets many different meanings. We can use "cool" when we talk about something wonderful or somebody looki...
+Q: "You may think the popular singer Jay Chow is cool". Here "cool" means
+A: good-looking
+
+Passage-Question-Answer Set 36:
+Context: "Cool" is a word with many meanings. It means a little cold at first. As time changes, the word gets many different meanings. We can use "cool" when we talk about something wonderful or somebody looki...
+Q: When some people use "cool" everywhere they don't have other words, the writer seems a little   _  .
+A: worried
+
+Passage-Question-Answer Set 37:
+Context: "Cool" is a word with many meanings. It means a little cold at first. As time changes, the word gets many different meanings. We can use "cool" when we talk about something wonderful or somebody looki...
+Q: The best title is   _  .
+A: Meanings of the word "Cool"
+
+Passage-Question-Answer Set 38:
+Context: One day a great general  asks his soldiers , "What is the strongest power in the world?" Four of his soldiers put up their hands. They want to answer the question.
+The general asks the first man to sp...
+Q: _   soldiers answer the general's question.
+A: Four of the
+
+Passage-Question-Answer Set 39:
+Context: One day a great general  asks his soldiers , "What is the strongest power in the world?" Four of his soldiers put up their hands. They want to answer the question.
+The general asks the first man to sp...
+Q: The youngest man thinks   _   is the strongest power in the world.
+A: a gun
+
+Passage-Question-Answer Set 40:
+Context: One day a great general  asks his soldiers , "What is the strongest power in the world?" Four of his soldiers put up their hands. They want to answer the question.
+The general asks the first man to sp...
+Q: The fourth man   _  .
+A: wants that all people love each other
+
+Passage-Question-Answer Set 41:
+Context: One day a great general  asks his soldiers , "What is the strongest power in the world?" Four of his soldiers put up their hands. They want to answer the question.
+The general asks the first man to sp...
+Q: The general thinks   _   answer is the best.
+A: the fourth man's
+

@@ -1,0 +1,440 @@
+[
+  {
+    "answers": [
+      "D",
+      "A",
+      "B",
+      "B"
+    ],
+    "options": [
+      [
+        "Help his mother.",
+        "Watch TV.",
+        "Wear his raincoat",
+        "Go out."
+      ],
+      [
+        "happy",
+        "scary",
+        "dangerous",
+        "boring"
+      ],
+      [
+        "The raincoat can stop the rain.",
+        "The color of Robbie's raincoat is red.",
+        "Robbie first watches with his Mum",
+        "Robbie's mum doesn't wear a raincoat in the rain."
+      ],
+      [
+        "It's raining",
+        "Fun in the rain",
+        "Robbie and His mother",
+        "Robbie's raincoat"
+      ]
+    ],
+    "questions": [
+      "What does Robbie want to do on the rainy day?",
+      "Robbie has a_day that day.",
+      "Which of the following is TRUE according to the passage?",
+      "Which is the best title for the passage?"
+    ],
+    "article": "Pit-a-pat. Pit-a-pat. It's raining. \"I want to go outside and play, Mum,\" Robbie says, \"When can the rain stop?\" His mum doesn't know what to say. She hopes the rain can stop, too. \"You can watch TV with me,\" she says. \"No, I just want to go outside.\" \"1Put on your raincoat.\" \"Does it stop raining?\" \"No, but you can go outside and play in the rain. Do you like that?\" \"Yes, mum.\" He runs to his bedroom and puts on his red raincoat. \"Here you go. Go outside and play.\" Mum opens the door and says. Robbie runs into the rain. Water goes 2here and there. Robbie's mum watches her son. He is having so much fun. \"Mum, come and play with me!\" Robbie calls. The door opens and his mum walks out. She is in her yellow raincoat. Mother and son are out in the rain for a long time. They play all kinds of games in the rain.",
+    "id": "middle10.txt",
+    "processed_article": "pitapat pitapat raining want go outside play mum robbie say rain stop mum doesnt know say hope rain stop watch tv say want go outside put raincoat stop raining go outside play rain like yes mum run bedroom put red raincoat go go outside play mum open door say robbie run rain water go robbies mum watch son much fun mum come play robbie call door open mum walk yellow raincoat mother son rain long time play kind game rain"
+  },
+  {
+    "answers": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "options": [
+      [
+        "to do some shopping",
+        "to visit friend",
+        "to spend his holiday",
+        "to find a job"
+      ],
+      [
+        "he was feeling bad",
+        "he could save 50 pence",
+        "he wanted to take some medicine home",
+        "a good doctor was very expensive"
+      ],
+      [
+        "as much as",
+        "less than",
+        "more than",
+        "no more than"
+      ],
+      [
+        "he wasn't ill",
+        "It is the second time for him to go to his clinic .",
+        "he saw a friend of his",
+        "he wasn't feeling well"
+      ]
+    ],
+    "questions": [
+      "Henry came to London  _  .",
+      "He wanted to see a good doctor because  _  .",
+      "The first visit to the doctor cost  _   later visit.",
+      "Henry tried to make the doctor believe that  _  ."
+    ],
+    "article": "Henry was from the United States and he had come to London for a holiday.\nOne day he was not feeling well.  So he was to the clerk at the desk of his hotel and said, \"I want to see a doctor. Can you give me the name of a good one?\"\nThe clerk looked in a book, and said, \"Dr. Grey.\"\n\"Is he expensive?\"\n\"Well,\" the clerk answered, \"he always asks for his patients two pounds for their first visit to him, and 1.5 pounds for later visit.\"\nHenry decided    to save 50 pence. When he went to see the doctor he said, \"I've come again, doctor.\"\nFor a few seconds the doctor looked at his face carefully without saying anything. Then he nodded and said, \"Oh, yes.\" He examined   him and then said, \"Everything's going as it should do. Just continue  with the medicine   I gave you last time.\"",
+    "id": "middle100.txt",
+    "processed_article": "henry united state come london holiday one day feeling well clerk desk hotel said want see doctor give name good one clerk looked book said dr grey expensive well clerk answered always asks patient two pound first visit pound later visit henry decided save penny went see doctor said ive come doctor second doctor looked face carefully without saying anything nodded said oh yes examined said everythings going continue medicine gave last time"
+  },
+  {
+    "answers": [
+      "B",
+      "C",
+      "D",
+      "D",
+      "C"
+    ],
+    "options": [
+      [
+        "too small",
+        "big and nice",
+        "bright and clean",
+        "both B and C"
+      ],
+      [
+        "on the desk",
+        "on the wall",
+        "under the bed",
+        "behind the chair"
+      ],
+      [
+        "playing the guitar",
+        "playing soccer",
+        "going to movies",
+        "listening to music"
+      ],
+      [
+        "is an English teacher",
+        "is busy and strict",
+        "doesn't like his students",
+        "is Mary's Chinese teacher"
+      ],
+      [
+        "There is a map of China on the front wall",
+        "Mary's backpack and books are on the desk",
+        "English and Chinese are Mary's favorite subjects",
+        "Mary doesn't like her Chinese teacher"
+      ]
+    ],
+    "questions": [
+      "Mary's room is   _  .",
+      "The volleyball is   _  .",
+      "Mary likes   _  .",
+      "Mr. Wang-------   _  .",
+      "Which is right ?"
+    ],
+    "article": "Mary has a room. It's a big and nice room. It's bright and clean  . There are some pictures on the front wall. On the back wall there is a map of China.\nThere is a desk and a chair in her room. Her backpack is behind the chair. Some books and her pencil-case are on the desk. There are some color pencils, a pen, a ruler, and a knife in the pencil-case. Mary's bed is near the desk. Her shoes and a volleyball are under the bed.\nMary and her friends are often in her room. They usually listen to music there. Mary likes English and Chinese very much. But she doesn't like math. It's to difficult for her. Mary's Chinese teacher is Mr. Wang. The students all love him, he is very strict, but sometimes very funny.",
+    "id": "middle1000.txt",
+    "processed_article": "mary room big nice room bright clean picture front wall back wall map china desk chair room backpack behind chair book pencilcase desk color pencil pen ruler knife pencilcase mary bed near desk shoe volleyball bed mary friend often room usually listen music mary like english chinese much doesnt like math difficult mary chinese teacher mr wang student love strict sometimes funny"
+  },
+  {
+    "answers": [
+      "D",
+      "D",
+      "B",
+      "B",
+      "A"
+    ],
+    "options": [
+      [
+        "France",
+        "Japan",
+        "Korea",
+        "China"
+      ],
+      [
+        "with Fang",
+        "with his friends",
+        "with his parents",
+        "alone"
+      ],
+      [
+        "for about two weeks",
+        "for about two months",
+        "for about one and a half months",
+        "for about a month"
+      ],
+      [
+        "London's long history",
+        "the modern skyscrapers",
+        "London's old buildings",
+        "the English culture"
+      ],
+      [
+        "do not often shake hands with their friends when they meet",
+        "often shake hands when they meet their friends",
+        "talk aloud when they have dinner",
+        "usually make noise when they eat"
+      ]
+    ],
+    "questions": [
+      "Harry came to London from   _  .",
+      "Two months ago Harry came to London   _  .",
+      "Harry has studied in London   _  .",
+      "Last weekend Harry was impressed by   _  .",
+      "English people   _  ."
+    ],
+    "article": "Dear Fang,\nHow are you these days? I have been in England for two months. It's not a long time for a newcomer, and there are still a lot of things to do. Sorry for not being able to write to you soon.\nLondon is an old but beautiful city. There are lots of places of interest to visit. Last weekend I went along Thames River with some friends from Japan, Korea and some other countries. The modern skyscrapers  among the old buildings impressed(...) us deeply. The classes started two weeks after I arrived here alone. Besides the language, I'm trying to learn about the culture as well. British people are quite different from the Chinese. Do you know the people here do not shake hands as much as we do in China? And it's never a good habit to make noise when you eat. They think it's impolite.\nThere is so much to say, but I have to stop.\nI will write to you soon again.\nLove,\nHarry",
+    "id": "middle1002.txt",
+    "processed_article": "dear fang day england two month long time newcomer still lot thing sorry able write soon london old beautiful city lot place interest visit last weekend went along thames river friend japan korea country modern skyscraper among old building impressed u deeply class started two week arrived alone besides language im trying learn culture well british people quite different chinese know people shake hand much china never good habit make noise eat think impolite much say stop write soon love harry"
+  },
+  {
+    "answers": [
+      "A",
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "options": [
+      [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      [
+        "3",
+        "33",
+        "1",
+        "53"
+      ],
+      [
+        "3",
+        "43",
+        "53",
+        "85"
+      ],
+      [
+        "his illness",
+        "his height",
+        "his friend",
+        "his size"
+      ]
+    ],
+    "questions": [
+      "In 1918, Captain Hedley fell off his plane in the sky, but soon he fell back into it again! You may read about this story in Chapter   _  .",
+      "One morning in New York City, people saw a man walking on a rope between two tall buildings. You may read this story in Chapter   _  .",
+      "The Earl feeds his dogs better than most people do. This story may begin on Page   _  .",
+      "Sarah thought she would die as soon as her house was finished. So she kept on adding more and more rooms. Her story may appear on Page   _  .",
+      "In Chapter 4, Robert could not enter any hospital room because of   _  ."
+    ],
+    "article": "A man fell out of his plane and fell back into it again. Two people rowed  a small boat from New York to England in 56 days. One person was so big that he wouldn't fit in any hospital room. Would you believe these stories? Well, they may sound strange, but they did happen. James Cornell has more strange but true stories like these in a book called Very Strange People.\nHere is part of the contents  of Very Strange People. The contents lists the names of the chapters  or parts of the book. It also tells on what page each chapter begins.\nChapter                                                            Page\nOne       A Dog's Life  ..........................................3\nTwo      A Lucky Pilot   ................... ..............14\nThree    High Wire Act   .................... .............33\nFour   Fat Men  ............................................... 41\nFive     Over the Falls  .........................................43\nSix      A House without an end  ................... .............53\nSeven    Row, Row, Row Your Boat  ................. ..............60\nEight  The Tower Builder  ....................... ..............85",
+    "id": "middle1004.txt",
+    "processed_article": "man fell plane fell back two people rowed small boat new york england day one person big wouldnt fit hospital room would believe story well may sound strange happen james cornell strange true story like book called strange people part content strange people content list name chapter part book also tell page chapter begin chapter page one dog life two lucky pilot three high wire act four fat men five fall six house without end seven row row row boat eight tower builder"
+  },
+  {
+    "answers": [
+      "C",
+      "B",
+      "C"
+    ],
+    "options": [
+      [
+        "During a very interesting movie.",
+        "While playing at a fun park.",
+        "While listening to an uninteresting talk.",
+        "When making a movie."
+      ],
+      [
+        "We can remember the dream very clearly.",
+        "We can control what happens in the dream.",
+        "We think that the dream is like a movie.",
+        "We feel very nervous after we wake up."
+      ],
+      [
+        "Daydream of You",
+        "Enjoy Your Dream",
+        "What Dreams Mean",
+        "Where Dreams Go"
+      ]
+    ],
+    "questions": [
+      "When might a person daydream?",
+      "How do we know if we are lucid dreaming?",
+      "What is the best title of the passage?"
+    ],
+    "article": "It is said that all dreams serve a purpose . While there is no agreement among scientists about why we dream, there are many ideas about the different kinds of dreams we have.\nOne common kind of dream is the repeating dream, in which the same story is repeated again and again, often for many months or even years. Some believe these are a sign people have a problem in their life and once that problem is gone then the dream will stop. Others think _ are a way to help people remember something very important.\nAnother well-known kind of dream is the nightmare. The pictures and stories in such dreams make people very afraid and dreamers usually remember them far more clearly than normal dreams. The cause of such dreams may be seeing something _ such as a car accident or some deadly snakes. Others think such dreams may be trying to make a person pay attention to something that is dangerous in their life.\nDaydreams happen during wake-time when we forget where we are or what we are doing and find ourselves in a made-up story or unreal world. We often daydream when we are doing something that is not interesting or exciting. They help us think about our future.\nLucid dreams are the most fun. These happen when dreamers suddenly understand that they are dreaming. Instead of waking up, they stay in the dream and are able to control what happens in the dream as if they are making a movie.",
+    "id": "middle1005.txt",
+    "processed_article": "said dream serve purpose agreement among scientist dream many idea different kind dream one common kind dream repeating dream story repeated often many month even year believe sign people problem life problem gone dream stop others think way help people remember something important another wellknown kind dream nightmare picture story dream make people afraid dreamer usually remember far clearly normal dream cause dream may seeing something car accident deadly snake others think dream may trying make person pay attention something dangerous life daydream happen waketime forget find madeup story unreal world often daydream something interesting exciting help u think future lucid dream fun happen dreamer suddenly understand dreaming instead waking stay dream able control happens dream making movie"
+  },
+  {
+    "answers": [
+      "B",
+      "D",
+      "A",
+      "A",
+      "A"
+    ],
+    "options": [
+      [
+        "In Mrs. Green's house.",
+        "Near Mrs. Green's house.",
+        "Under the street.",
+        "In the mall ."
+      ],
+      [
+        "Mrs. Green and Mr. Green.",
+        "Mrs. Green and Tim.",
+        "Mrs. Green and Mimi.",
+        "Tim and Mimi."
+      ],
+      [
+        "fish",
+        "hot dogs",
+        "rice",
+        "vegetable"
+      ],
+      [
+        "Yes, she does.",
+        "No, she doesn't .",
+        "Yes, she is.",
+        "We don't know."
+      ],
+      [
+        "Mr. Green.",
+        "Mrs. Green.",
+        "Mimi.",
+        "Tim."
+      ]
+    ],
+    "questions": [
+      ". Where's the supermarket?",
+      ". Who likes biscuits?",
+      ". Mimi likes   _  .",
+      ". Does Mrs. Green buy a bag of rice?",
+      ". Who helps Mrs. Green take the rice?"
+    ],
+    "article": "There is a big supermarket  near Mrs. Green's home. She usually goes there to buy food. The shop assistants are polite and helpful. The things are cheap, too.\nOne day, Mrs. Green goes to the supermarket. She buys some noodles. Biscuits are also their children's favorite food. And she buys some milk. Her children always have milk for breakfast. Mimi likes fish and Tim likes hot dogs. She buys some fish and sausages for them, too. Mrs. Green doesn't have any rice at home. So she buys a bag of rice, but she can't take it. It is very heavy. Her husband, Mr. Green is coming to the supermarket and carry the rice.",
+    "id": "middle1006.txt",
+    "processed_article": "big supermarket near mr green home usually go buy food shop assistant polite helpful thing cheap one day mr green go supermarket buy noodle biscuit also childrens favorite food buy milk child always milk breakfast mimi like fish tim like hot dog buy fish sausage mr green doesnt rice home buy bag rice cant take heavy husband mr green coming supermarket carry rice"
+  },
+  {
+    "answers": [
+      "D",
+      "A"
+    ],
+    "options": [
+      [
+        "four years old",
+        "six years old",
+        "eight years old",
+        "nine years old"
+      ],
+      [
+        "by herself",
+        "with the mother",
+        "with the father",
+        "with the classmates"
+      ]
+    ],
+    "questions": [
+      "The woman's daughter is   _  .",
+      "The woman thinks that her daughter should do her homework  _  ."
+    ],
+    "article": "My nine-year-old daughter, Maria, is in Grade Two. Every evening we get into homework battles  . When she get home, homework is the last thing she likes to do. I think she should do her homework just after school. But she thinks she should have some time to rest and play first. When Maria does her homework, she wants me to help her. I don't want to help, because I think my daughter should do her homework by herself. And most of the time, I have to do other things.\nChildren these days have much more homework than we did, and some of it is really difficult for them. As you can see, I'm really worried about homework and I really don't know what I should do. Any ideas ? Help me!",
+    "id": "middle1007.txt",
+    "processed_article": "nineyearold daughter maria grade two every evening get homework battle get home homework last thing like think homework school think time rest play first maria homework want help dont want help think daughter homework time thing child day much homework really difficult see im really worried homework really dont know idea help"
+  },
+  {
+    "answers": [
+      "B",
+      "D",
+      "D",
+      "A"
+    ],
+    "options": [
+      [
+        "is always the same",
+        "changes a lot",
+        "is \"wonderful or smart\"",
+        "is \"new and surprising\""
+      ],
+      [
+        "a little cold",
+        "a little hot",
+        "new and surprising",
+        "good-looking"
+      ],
+      [
+        "excited",
+        "happy",
+        "surprised",
+        "worried"
+      ],
+      [
+        "Meanings of the word \"Cool\"",
+        "\"Cool\", the Best Word to Use",
+        "People use \"Cool\" Too Much",
+        "\"Cool' Is A New Word"
+      ]
+    ],
+    "questions": [
+      "The meaning of the word \"cool\"   _  .",
+      "\"You may think the popular singer Jay Chow is cool\". Here \"cool\" means",
+      "When some people use \"cool\" everywhere they don't have other words, the writer seems a little   _  .",
+      "The best title is   _  ."
+    ],
+    "article": "\"Cool\" is a word with many meanings. It means a little cold at first. As time changes, the word gets many different meanings. We can use \"cool\" when we talk about something wonderful or somebody looking smart. For example. When you see a beautiful and expensive car in the street, you can say, \"It is cool.\" You may think the popular singer Jay Chow is cool. You can also use the word to mean something new and surprising. Here is an example. One day a teacher took the students to a farm and then asked them to write something about the visit. One of her students just wrote, \"The farm is so cool.\" Because he thought \"cool\" was the best word to show what he saw and felt. It also shows some people don't have enough words. Without \"cool\", they seem to have no other words to use. Can you think of any other words like \"cool: with so many meanings? If you can they are also very \"cool\".",
+    "id": "middle1008.txt",
+    "processed_article": "cool word many meaning mean little cold first time change word get many different meaning use cool talk something wonderful somebody looking smart example see beautiful expensive car street say cool may think popular singer jay chow cool also use word mean something new surprising example one day teacher took student farm asked write something visit one student wrote farm cool thought cool best word show saw felt also show people dont enough word without cool seem word use think word like cool many meaning also cool"
+  },
+  {
+    "answers": [
+      "D",
+      "C",
+      "C",
+      "D"
+    ],
+    "options": [
+      [
+        "All",
+        "Many of the",
+        "One of the",
+        "Four of the"
+      ],
+      [
+        "the general",
+        "a solider",
+        "a gun",
+        "love"
+      ],
+      [
+        "doesn't want to use his gun",
+        "wants to be a general",
+        "wants that all people love each other",
+        "wants the general to give him a medal"
+      ],
+      [
+        "the first man's",
+        "the second man's",
+        "the third man's",
+        "the fourth man's"
+      ]
+    ],
+    "questions": [
+      "_   soldiers answer the general's question.",
+      "The youngest man thinks   _   is the strongest power in the world.",
+      "The fourth man   _  .",
+      "The general thinks   _   answer is the best."
+    ],
+    "article": "One day a great general  asks his soldiers , \"What is the strongest power in the world?\" Four of his soldiers put up their hands. They want to answer the question.\nThe general asks the first man to speak. The first man is youngerst, and he is not strong. He says, \"My gun is the strongest . It can kill anyone.\" \"Thank you. Next, please.\" The second man is very strong. He says, \"I don't think so. Soldiers use guns. So the soldier is the strongest.\"\nThe third man says, \"Soldiers use guns, but our general gives orders . So I think our general is the strongest.\"\nThe fourth man is the oldest. He says, \"Love is the strongest. For love, people don't use guns.\" The general says noting. He takes out a medal and gives it to him.",
+    "id": "middle1009.txt",
+    "processed_article": "one day great general asks soldier strongest power world four soldier put hand want answer question general asks first man speak first man youngerst strong say gun strongest kill anyone thank next please second man strong say dont think soldier use gun soldier strongest third man say soldier use gun general give order think general strongest fourth man oldest say love strongest love people dont use gun general say noting take medal give"
+  }
+]
