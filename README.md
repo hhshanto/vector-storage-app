@@ -1,6 +1,6 @@
 # Vector Storage and Embedding Techniques Lab
 
-A comprehensive exploration of vector storage solutions and embedding techniques commonly used in modern AI applications.
+A comprehensive exploration of vector storage solutions and embedding techniques commonly used in modern AI applications, with a focus on Azure OpenAI and Hugging Face models.
 
 ## Project Goal
 
@@ -11,37 +11,31 @@ This project aims to provide a hands-on learning experience and demonstration of
 This project demonstrates practical implementations of:
 
 ### 1. Embedding Techniques
-- Word2Vec embeddings
-- Transformer-based embeddings (BERT, GPT)
-- OpenAI embeddings
+- Azure OpenAI embeddings
+- Hugging Face Transformer-based embeddings
 - Custom embeddings
 
 ### 2. Vector Storage Solutions
 - FAISS (Facebook AI Similarity Search)
-- Chroma DB
-- Pinecone
-- Milvus
-- Simple Vector Database (custom implementation)
+- Potential for integration with other solutions like Chroma DB, Pinecone, or Milvus
 
 ### 3. Similarity Search Methods
 - Cosine Similarity
 - Euclidean Distance
 - Dot Product
-- Approximate Nearest Neighbors (ANN)
 
 ## Technical Skills Demonstrated
 
 - Vector Operations
-- Dimensionality Reduction
 - Efficient Vector Storage
 - Similarity Search Algorithms
-- Integration with Cloud Services
+- Integration with Cloud Services (Azure OpenAI)
 - Performance Optimization
 
 ## Installation
 
 ```bash
-git clone https://github.com/hhshanto/vector-storage-app.git
+git clone https://github.com/your-username/vector-storage-app.git
 cd vector-storage-app
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -53,50 +47,71 @@ pip install -r requirements.txt
 ```
 vector-storage-app/
 ├── src/
-│   ├── embeddings/          # Different embedding implementations
-│   ├── storage/             # Vector storage solutions
-│   └── utils/               # Helper functions
-├── notebooks/               # Jupyter notebooks with examples
-├── tests/                   # Unit tests
-└── examples/                # Example use cases
+│   ├── embeddings/
+│   │   ├── create_embedding_azure.py
+│   │   └── create_embedding_huggingface.py
+│   ├── storage/
+│   │   └── (future vector storage implementations)
+│   └── utils/
+│       ├── azure_openai_api_client.py
+│       └── azure_openai_embed_client.py
+├── tests/
+│   └── verify_embeddings.py
+├── data/
+│   ├── preprocessed_passages.json
+│   └── embeddeddata/
+│       └── (generated embedding files)
+├── notebooks/
+│   └── (Jupyter notebooks for examples and analysis)
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
 ```
 
 ## Usage Examples
 
-### 1. Text Embedding
+### 1. Creating Embeddings with Azure OpenAI
 
 ```python
-from src.embeddings.transformer import TransformerEmbedding
+from src.embeddings.create_embedding_azure import create_embeddings_for_dataset
 
-embedder = TransformerEmbedding()
-vector = embedder.embed("Example text")
+preprocessed_data = load_preprocessed_data("path/to/preprocessed_data.json")
+embeddings, model_info = create_embeddings_for_dataset(preprocessed_data)
 ```
 
-### 2. Vector Storage
+### 2. Creating Embeddings with Hugging Face
 
 ```python
-from src.storage.faiss_store import FaissStore
+from src.embeddings.create_embedding_huggingface import create_embeddings_for_dataset
 
-store = FaissStore(dimension=768)
-store.add_vectors(vectors)
-similar_vectors = store.search(query_vector, k=5)
+preprocessed_data = load_preprocessed_data("path/to/preprocessed_data.json")
+embeddings, model_info = create_embeddings_for_dataset(preprocessed_data)
 ```
 
-### 3. Similarity Search
+### 3. Verifying Embeddings
 
 ```python
-from src.utils.similarity import cosine_similarity
+from tests.verify_embeddings import verify_embeddings
 
-similarity = cosine_similarity(vector1, vector2)
+verify_embeddings("path/to/embeddings.npz")
 ```
 
-## Benchmarks
+## Embedding Models Used
 
-| Storage Solution | Insert Speed | Query Speed | Memory Usage |
-|-----------------|--------------|-------------|--------------|
-| FAISS           | X ops/sec    | Y ms        | Z MB         |
-| Chroma DB       | X ops/sec    | Y ms        | Z MB         |
-| Custom VectorDB | X ops/sec    | Y ms        | Z MB         |
+1. Azure OpenAI: text-embedding-ada-002
+2. Hugging Face: (<br />
+    'sentence-transformers/all-MiniLM-L6-v2': 'Compact and efficient model for sentence embeddings',<br />
+    'sentence-transformers/all-mpnet-base-v2': 'High-performance model for sentence embeddings',<br />
+    'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2': 'Multilingual model supporting 50+ languages',<br />
+    'sentence-transformers/distilbert-base-nli-stsb-mean-tokens': 'DistilBERT-based model for semantic similarity',<br />
+    'openai-gpt': 'OpenAI\'s GPT model for general-purpose text embeddings',<br />
+    'bert-base-uncased': 'Classic BERT model, widely used baseline',<br />
+    'roberta-base': 'Improved version of BERT',<br />
+    'xlm-roberta-base': 'Multilingual version of RoBERTa',<br />
+    'allenai/scibert_scivocab_uncased': 'Specialized BERT model for scientific text',<br />
+    'microsoft/deberta-base': 'Enhanced BERT model with disentangled attention'<br />
+)
 
 ## Results and Findings
 
@@ -104,33 +119,18 @@ similarity = cosine_similarity(vector1, vector2)
 
 ## Challenges and Learnings
 
-During this project, I encountered several challenges:
+During this project, some challenges and learnings included:
 
-1. Optimizing storage for high-dimensional vectors
-2. Balancing speed and accuracy in similarity search
-3. Integrating different embedding models
+1. Integrating Azure OpenAI API for embedding generation
+2. Handling batch processing of embeddings for efficiency
+3. Comparing embeddings from different sources (Azure vs. Hugging Face)
 
-These challenges provided valuable learning experiences in:
-
-- Efficient data structures for vector storage
-- Approximate nearest neighbor algorithms
-- Model integration and API design
-
-## Future Improvements
-
-- [ ] Add more embedding techniques (e.g., Doc2Vec, FastText)
-- [ ] Implement distributed vector storage for improved scalability
-- [ ] Add visualization tools for embedding spaces
-- [ ] Optimize search algorithms for specific use cases
-- [ ] Expand benchmarks to include more metrics and scenarios
-- [ ] Implement a simple web interface for demonstration purposes
 
 ## Resources
 
-- [Faiss: A Library for Efficient Similarity Search](https://github.com/facebookresearch/faiss)
-- [Transformers: State-of-the-art Machine Learning for Pytorch and TensorFlow](https://github.com/huggingface/transformers)
-- [Pinecone: Managed Vector Database](https://www.pinecone.io/)
-- [Milvus: An Open-Source Vector Database](https://milvus.io/)
+- [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/)
+- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- [FAISS: A Library for Efficient Similarity Search](https://github.com/facebookresearch/faiss)
 
 ## Contributing
 
