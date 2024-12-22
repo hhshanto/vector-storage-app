@@ -5,12 +5,19 @@
    - Install required dependencies
 3. Define the project structure ✅
    - Create folders for embeddings, storage, utils, notebooks, tests, and examples
-4. Implement embedding techniques
+4. Implement preprocessing utilities
+    - Text cleaning (remove special characters, handle case consistency)
+    - Tokenization
+    - Stop word removal
+    - Number and punctuation handling
+    - Sentence segmentation
+    - Lemmatization/Stemming
+5. Implement embedding techniques
    - Word2Vec embeddings
    - Transformer-based embeddings (BERT, GPT)
    - OpenAI embeddings
    - Custom embeddings
-5. Implement vector storage solutions
+6. Implement vector storage solutions
    - FAISS (Facebook AI Similarity Search)
    - Chroma DB
    - Pinecone
