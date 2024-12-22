@@ -1,0 +1,46 @@
+Dataset Summary
+===============
+
+Data Structure:
+1. Selected Passages:
+   Each passage file contains a JSON object with the following structure:
+   - 'article': The main text passage
+   - 'questions': A list of questions about the passage
+   - 'answers': A list of correct answer indices (A, B, C, or D)
+   - 'options': A list of lists, each containing 4 answer options for a question
+
+2. QA Pairs File (race_qa_pairs.txt):
+   The file contains multiple QA pairs, each structured as follows:
+   - 'Passage-Question-Answer Set X:' (where X is a number)
+   - 'Context: [First 200 characters of the passage]...'
+   - 'Q: [The question]'
+   - 'A: [The correct answer]'
+   - An empty line separating each set
+
+Analysis Results:
+Total passages: 10
+Total characters: 8650
+Total questions: 41
+Unique words: 536
+
+Average statistics:
+  Article length: 865.00 characters
+  Questions per article: 4.10
+  Question length: 46.98 characters
+  Answer length: 17.32 characters
+
+Mode lengths:
+  Question: 21 characters
+  Answer: 5 characters
+
+Most common words (excluding stop words):
+  it: 20
+  i: 20
+  you: 20
+  he: 20
+  she: 16
+  her: 16
+  s: 14
+  can: 13
+  there: 13
+  some: 13
