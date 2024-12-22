@@ -5,7 +5,7 @@
    - Install required dependencies
 3. Define the project structure ✅
    - Create folders for embeddings, storage, utils, notebooks, tests, and examples
-4. Implement preprocessing utilities
+4. Implement preprocessing utilities ✅
     - Text cleaning (remove special characters, handle case consistency)
     - Tokenization
     - Stop word removal
