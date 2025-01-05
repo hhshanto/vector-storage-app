@@ -15,8 +15,8 @@
 5. Implement embedding techniques
    - Word2Vec embeddings
    - Transformer-based embeddings (BERT, GPT)
-   - OpenAI embeddings
-   - Custom embeddings
+   - OpenAI embeddings ✅
+   - Huggingface embeddings ✅
 6. Implement vector storage solutions
    - FAISS (Facebook AI Similarity Search)
    - Chroma DB
