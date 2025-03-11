@@ -85,7 +85,7 @@ download_race_data(race_url, data_folder)
 
 # Load a subset of the RACE data (10 passages from the middle school subset) and copy to a new folder
 selected_folder = 'selected_passages'
-race_data = load_and_copy_race_data(data_folder, subset='train/middle', num_passages=10, target_folder=selected_folder)
+race_data = load_and_copy_race_data(data_folder, subset='train/middle', num_passages=100, target_folder=selected_folder)
 
 # Delete the original RACE folder
 shutil.rmtree(race_folder)

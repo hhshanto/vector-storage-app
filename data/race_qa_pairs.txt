@@ -229,3 +229,1979 @@ The general asks the first man to sp...
 Q: The general thinks   _   answer is the best.
 A: the fourth man's
 
+Passage-Question-Answer Set 42:
+Context: American Schools
+American schools begin in September after a long summer holiday. There are two terms  in a school year. The first term is from September to January, and the second is from February to...
+Q: How long is each term?
+A: Four months.
+
+Passage-Question-Answer Set 43:
+Context: American Schools
+American schools begin in September after a long summer holiday. There are two terms  in a school year. The first term is from September to January, and the second is from February to...
+Q: How old are the students when they graduate  from high school?
+A: Seventeen or eighteen years old.
+
+Passage-Question-Answer Set 44:
+Context: American Schools
+American schools begin in September after a long summer holiday. There are two terms  in a school year. The first term is from September to January, and the second is from February to...
+Q: How many subjects do the high school students have each term?
+A: Four or five.
+
+Passage-Question-Answer Set 45:
+Context: American Schools
+American schools begin in September after a long summer holiday. There are two terms  in a school year. The first term is from September to January, and the second is from February to...
+Q: What do many college students do after class in America?
+A: Many of them go to work to get money for their studies.
+
+Passage-Question-Answer Set 46:
+Context: Being shy keeps many Chinese people from getting to know westerners. You may feel nervous about making language mistakes in front of a native English speaker.
+But remember, westerners living in Asia k...
+Q: .Why do many Chinese people feel worried to speak to the foreigners?
+A: Being shy.
+
+Passage-Question-Answer Set 47:
+Context: Being shy keeps many Chinese people from getting to know westerners. You may feel nervous about making language mistakes in front of a native English speaker.
+But remember, westerners living in Asia k...
+Q: .What do you think the foreigners may not be insulted with?
+A: Taking care of themselves.
+
+Passage-Question-Answer Set 48:
+Context: Being shy keeps many Chinese people from getting to know westerners. You may feel nervous about making language mistakes in front of a native English speaker.
+But remember, westerners living in Asia k...
+Q: .What may help you to make lifelong friends?
+A: All of the above.
+
+Passage-Question-Answer Set 49:
+Context: Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mi...
+Q: How old is Li Hai?
+A: 12 years old.
+
+Passage-Question-Answer Set 50:
+Context: Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mi...
+Q: Where is Tom from?
+A: Shanghai.
+
+Passage-Question-Answer Set 51:
+Context: Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mi...
+Q: What class is Li Hai in?
+A: Class 5.
+
+Passage-Question-Answer Set 52:
+Context: Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mi...
+Q: What day is it tomorrow?
+A: Friday.
+
+Passage-Question-Answer Set 53:
+Context: Look at the boy. His English name is Mike Smith. His Chinese name is Li Hai. He is from England. He's twelve years old. My name is Hao Gang. Tom is my English name. I'm from Shanghai. I'm thirteen. Mi...
+Q: .Which of the following is right?
+A: Mike and Tom are in the same grade.
+
+Passage-Question-Answer Set 54:
+Context: One day, little Mike's mother went to the river to do some washing.Before she left, she said to him: "Mike,while I am away, stay near the door and watch it all the time! "She said this because she was...
+Q: What did Mike's mother ask him to do while she was away?  _  .
+A: To watch the house.
+
+Passage-Question-Answer Set 55:
+Context: One day, little Mike's mother went to the river to do some washing.Before she left, she said to him: "Mike,while I am away, stay near the door and watch it all the time! "She said this because she was...
+Q: How many uncles did Mike have?  _  .
+A: We don't know.
+
+Passage-Question-Answer Set 56:
+Context: One day, little Mike's mother went to the river to do some washing.Before she left, she said to him: "Mike,while I am away, stay near the door and watch it all the time! "She said this because she was...
+Q: . What should Mike do?  _  .
+A: He should lock the door before he went to the river.
+
+Passage-Question-Answer Set 57:
+Context: Everybody wants to be healthy.You know food is very important.There is much healthy food.You can have more bananas,apples,oranges and tomatoes because fruit and vegetables are good for you.But don't e...
+Q: .Which of these following sentences is true?  _  .
+A: Food is important.
+
+Passage-Question-Answer Set 58:
+Context: Everybody wants to be healthy.You know food is very important.There is much healthy food.You can have more bananas,apples,oranges and tomatoes because fruit and vegetables are good for you.But don't e...
+Q: Why is healthy food good for you?  _  .
+A: It makes you grow and make you strong and happy.
+
+Passage-Question-Answer Set 59:
+Context: Everybody wants to be healthy.You know food is very important.There is much healthy food.You can have more bananas,apples,oranges and tomatoes because fruit and vegetables are good for you.But don't e...
+Q: "An apple a day keeps a doctor away"means :  _
+A: You eat an apple every day and you can be healthy.
+
+Passage-Question-Answer Set 60:
+Context: Everybody wants to be healthy.You know food is very important.There is much healthy food.You can have more bananas,apples,oranges and tomatoes because fruit and vegetables are good for you.But don't e...
+Q: .What's the best title for this passage ?  _  .
+A: Healthy food and sports.
+
+Passage-Question-Answer Set 61:
+Context: July 20th, 1969 was an important day.Two American landed on the moon.Their names were Armstrong and Aldrin.They went there in a spaceship.Its name was Apollo 11.
+Apollo 11 left Cape Kennedy on July 16...
+Q: The moon is    _   kilometres away from the earth.
+A: 385000
+
+Passage-Question-Answer Set 62:
+Context: July 20th, 1969 was an important day.Two American landed on the moon.Their names were Armstrong and Aldrin.They went there in a spaceship.Its name was Apollo 11.
+Apollo 11 left Cape Kennedy on July 16...
+Q: The two Americans stayed on the moon for about  _  .
+A: one day
+
+Passage-Question-Answer Set 63:
+Context: July 20th, 1969 was an important day.Two American landed on the moon.Their names were Armstrong and Aldrin.They went there in a spaceship.Its name was Apollo 11.
+Apollo 11 left Cape Kennedy on July 16...
+Q: July 20th, 1969 was an important day because  _  .
+A: it was the first time for human beings to land on the moon.
+
+Passage-Question-Answer Set 64:
+Context: When tea and coffee were first introduced to Europe in the 18th century, people had different ideas about their use.Some said that tea and coffee were harmful to humans and they could cause  people to...
+Q: Tea and coffee were first introducd to Europe in  _  .
+A: the eighteenth century
+
+Passage-Question-Answer Set 65:
+Context: When tea and coffee were first introduced to Europe in the 18th century, people had different ideas about their use.Some said that tea and coffee were harmful to humans and they could cause  people to...
+Q: The brother who had drunk tea every day lived  _  .
+A: until he was 83
+
+Passage-Question-Answer Set 66:
+Context: When tea and coffee were first introduced to Europe in the 18th century, people had different ideas about their use.Some said that tea and coffee were harmful to humans and they could cause  people to...
+Q: . Today the Swedish drink  _  .
+A: much tea and coffee
+
+Passage-Question-Answer Set 67:
+Context: Welcome to my room. Open the door . You can see a desk. There are some books on the desk. My pens are on the desk, too. Behind the door there is a basketball. I love it very much. On the wall there ar...
+Q: .Where are the books? They are  _  .
+A: on the desk
+
+Passage-Question-Answer Set 68:
+Context: Welcome to my room. Open the door . You can see a desk. There are some books on the desk. My pens are on the desk, too. Behind the door there is a basketball. I love it very much. On the wall there ar...
+Q: . There isn't a   _   in my room.
+A: TV
+
+Passage-Question-Answer Set 69:
+Context: Welcome to my room. Open the door . You can see a desk. There are some books on the desk. My pens are on the desk, too. Behind the door there is a basketball. I love it very much. On the wall there ar...
+Q: Who is the boy in the picture?  It's   _  .
+A: me
+
+Passage-Question-Answer Set 70:
+Context: Welcome to my room. Open the door . You can see a desk. There are some books on the desk. My pens are on the desk, too. Behind the door there is a basketball. I love it very much. On the wall there ar...
+Q: Is my football under the sofa?
+A: No, it isn't.
+
+Passage-Question-Answer Set 71:
+Context: Welcome to my room. Open the door . You can see a desk. There are some books on the desk. My pens are on the desk, too. Behind the door there is a basketball. I love it very much. On the wall there ar...
+Q: Where is my computer?  It's   _  .
+A: next to the desk
+
+Passage-Question-Answer Set 72:
+Context: Nice to meet you. I'm David Beckham. I'm from England and I'm English. I'm twenty-nine years old. I like playing football and I can play football very well.
+My name is Zhou Jielun. I'm from Taiwan, Ch...
+Q: . Who  is Chinese?
+A: A ,B, and C
+
+Passage-Question-Answer Set 73:
+Context: Nice to meet you. I'm David Beckham. I'm from England and I'm English. I'm twenty-nine years old. I like playing football and I can play football very well.
+My name is Zhou Jielun. I'm from Taiwan, Ch...
+Q: . Who is the youngest ?
+A: Li Yuchun
+
+Passage-Question-Answer Set 74:
+Context: Nice to meet you. I'm David Beckham. I'm from England and I'm English. I'm twenty-nine years old. I like playing football and I can play football very well.
+My name is Zhou Jielun. I'm from Taiwan, Ch...
+Q: _   and   _   are from Taiwan.
+A: Zhou Jielun ; Liu Qian
+
+Passage-Question-Answer Set 75:
+Context: Nice to meet you. I'm David Beckham. I'm from England and I'm English. I'm twenty-nine years old. I like playing football and I can play football very well.
+My name is Zhou Jielun. I'm from Taiwan, Ch...
+Q: . David Beckham  is   _   years old.
+A: twenty-nine
+
+Passage-Question-Answer Set 76:
+Context: Nice to meet you. I'm David Beckham. I'm from England and I'm English. I'm twenty-nine years old. I like playing football and I can play football very well.
+My name is Zhou Jielun. I'm from Taiwan, Ch...
+Q: . David Beckham's family name is   _  and Zhou Jielun's given name is   _  .
+A: Beckham; Jielun
+
+Passage-Question-Answer Set 77:
+Context: Today Chinese people can enjoy longer and more holidays, such as the two"Gold Week Holidays" -- the Spring Festival, National Day and Mid-autumn Festival and so on. They have more time to travel. Risi...
+Q: Now it is possible for the Chinese people to travel abroad because of    _
+A: more money
+
+Passage-Question-Answer Set 78:
+Context: Today Chinese people can enjoy longer and more holidays, such as the two"Gold Week Holidays" -- the Spring Festival, National Day and Mid-autumn Festival and so on. They have more time to travel. Risi...
+Q: Zhang Haitao will go to Japan   _  .
+A: with his father and mother
+
+Passage-Question-Answer Set 79:
+Context: Today Chinese people can enjoy longer and more holidays, such as the two"Gold Week Holidays" -- the Spring Festival, National Day and Mid-autumn Festival and so on. They have more time to travel. Risi...
+Q: Zhang Haitao is  _  .
+A: a middle school student
+
+Passage-Question-Answer Set 80:
+Context: Today Chinese people can enjoy longer and more holidays, such as the two"Gold Week Holidays" -- the Spring Festival, National Day and Mid-autumn Festival and so on. They have more time to travel. Risi...
+Q: Zhao Haitao is proud of his father because his father   _  .
+A: did a great job to our environment
+
+Passage-Question-Answer Set 81:
+Context: I called a meeting with the parents of my student, Tommy. I wanted to talk with them about his schoolwork and behaviour .Tommy was always an excellent student. How could I make his father and mother b...
+Q: Why did the teacher call a meeting with Tommy's parents?
+A: Because Tommy's grades were dropping recently.
+
+Passage-Question-Answer Set 82:
+Context: I called a meeting with the parents of my student, Tommy. I wanted to talk with them about his schoolwork and behaviour .Tommy was always an excellent student. How could I make his father and mother b...
+Q: . According to  the teacher, Tommy changed so much all because   _  .
+A: his parents separate not long ago.
+
+Passage-Question-Answer Set 83:
+Context: I called a meeting with the parents of my student, Tommy. I wanted to talk with them about his schoolwork and behaviour .Tommy was always an excellent student. How could I make his father and mother b...
+Q: . After reading Tommy's words on the paper, his father felt   _  .
+A: moved
+
+Passage-Question-Answer Set 84:
+Context: I called a meeting with the parents of my student, Tommy. I wanted to talk with them about his schoolwork and behaviour .Tommy was always an excellent student. How could I make his father and mother b...
+Q: . What's the best title   for the passage?
+A: Tommy's Bad Grades
+
+Passage-Question-Answer Set 85:
+Context: It's hard to make friends if you stay at home alone all the time. Be outgoing , get out of the house and do things with other people. It's easier to make friends when you follow these:
+Show people wha...
+Q: If you look right and left when people talk to you, they may think you are  _  .
+A: not interested in them
+
+Passage-Question-Answer Set 86:
+Context: It's hard to make friends if you stay at home alone all the time. Be outgoing , get out of the house and do things with other people. It's easier to make friends when you follow these:
+Show people wha...
+Q: Linda is talkative . But she doesn't like listening to other people. Linda should  _  .
+A: be a better listener
+
+Passage-Question-Answer Set 87:
+Context: It's hard to make friends if you stay at home alone all the time. Be outgoing , get out of the house and do things with other people. It's easier to make friends when you follow these:
+Show people wha...
+Q: You should be   _   if you want to have more chances for making friends.
+A: more friendly
+
+Passage-Question-Answer Set 88:
+Context: It's hard to make friends if you stay at home alone all the time. Be outgoing , get out of the house and do things with other people. It's easier to make friends when you follow these:
+Show people wha...
+Q: The main idea of this passage is   _  .
+A: about how to make friends
+
+Passage-Question-Answer Set 89:
+Context: About ten men in every hundred have the trouble of color blindness in some way. Women are luckier, only about one in two hundred is affected in this matter. Perhaps, after all ,it is safer to be drive...
+Q: Some people say it's safer to be driven by women because  _  .
+A: there are fewer color -- blind women
+
+Passage-Question-Answer Set 90:
+Context: About ten men in every hundred have the trouble of color blindness in some way. Women are luckier, only about one in two hundred is affected in this matter. Perhaps, after all ,it is safer to be drive...
+Q: With the help of the "cones", we can  _  .
+A: tell orange from yellow
+
+Passage-Question-Answer Set 91:
+Context: About ten men in every hundred have the trouble of color blindness in some way. Women are luckier, only about one in two hundred is affected in this matter. Perhaps, after all ,it is safer to be drive...
+Q: We can attract and kill mosquitoes by using a  _  light.
+A: blue
+
+Passage-Question-Answer Set 92:
+Context: About ten men in every hundred have the trouble of color blindness in some way. Women are luckier, only about one in two hundred is affected in this matter. Perhaps, after all ,it is safer to be drive...
+Q: Which of the following sentences about color blindness is TRUE?
+A: Not all of men have the same problem in recognizing colors.
+
+Passage-Question-Answer Set 93:
+Context: Ma Yan is not really a writer, but this 15-year-old girl has written a book that has moved many people around the world. Ma Yan's diary tells us about Ma's life. She lives in a poor village called Zha...
+Q: Ma Yan's diary has been published in France, Italy, Germany, Japan and  _  .
+A: China
+
+Passage-Question-Answer Set 94:
+Context: Ma Yan is not really a writer, but this 15-year-old girl has written a book that has moved many people around the world. Ma Yan's diary tells us about Ma's life. She lives in a poor village called Zha...
+Q: Why did Ma Yan leave school for the first time?
+A: Her family didn't have money for her to school.
+
+Passage-Question-Answer Set 95:
+Context: Ma Yan is not really a writer, but this 15-year-old girl has written a book that has moved many people around the world. Ma Yan's diary tells us about Ma's life. She lives in a poor village called Zha...
+Q: Ma Yan wants to study because she wants to  _  .
+A: get more knowledge to change her life
+
+Passage-Question-Answer Set 96:
+Context: Music is an international language. Popular music in America is what every student likes.
+Students carry small radios with earphones and listen to music before class, after class, and
+at lunch. Studen...
+Q: Almost every American student likes  _  .                   .
+A: popular music
+
+Passage-Question-Answer Set 97:
+Context: Music is an international language. Popular music in America is what every student likes.
+Students carry small radios with earphones and listen to music before class, after class, and
+at lunch. Studen...
+Q: What do adult drivers do while they are driving?.
+A: listen to music and news
+
+Passage-Question-Answer Set 98:
+Context: Music is an international language. Popular music in America is what every student likes.
+Students carry small radios with earphones and listen to music before class, after class, and
+at lunch. Studen...
+Q: What's one of the reasons that singers become national stars?
+A: Their CDs or tapes are used in every state.
+
+Passage-Question-Answer Set 99:
+Context: Music is an international language. Popular music in America is what every student likes.
+Students carry small radios with earphones and listen to music before class, after class, and
+at lunch. Studen...
+Q: _   was started by cowboys.
+A: Western music
+
+Passage-Question-Answer Set 100:
+Context: Music is an international language. Popular music in America is what every student likes.
+Students carry small radios with earphones and listen to music before class, after class, and
+at lunch. Studen...
+Q: What is the best title of the passage?
+A: Kinds of Music in America
+
+Passage-Question-Answer Set 101:
+Context: Tom was nine years old and he went to a school near his house. He went there on foot and came back home usually at 4 o'clock. But last Monday he was very late. His mother asked, "Why are you so late t...
+Q: The school was   _   Tom's house.
+A: near
+
+Passage-Question-Answer Set 102:
+Context: Tom was nine years old and he went to a school near his house. He went there on foot and came back home usually at 4 o'clock. But last Monday he was very late. His mother asked, "Why are you so late t...
+Q: Tom went to school   _  .
+A: on foot
+
+Passage-Question-Answer Set 103:
+Context: Tom was nine years old and he went to a school near his house. He went there on foot and came back home usually at 4 o'clock. But last Monday he was very late. His mother asked, "Why are you so late t...
+Q: Last Monday Tom came home   _  .
+A: late
+
+Passage-Question-Answer Set 104:
+Context: Tom was nine years old and he went to a school near his house. He went there on foot and came back home usually at 4 o'clock. But last Monday he was very late. His mother asked, "Why are you so late t...
+Q: ---Why did Tom stay behind after school? ---Because  _  .
+A: he did something wrong
+
+Passage-Question-Answer Set 105:
+Context: Tom was nine years old and he went to a school near his house. He went there on foot and came back home usually at 4 o'clock. But last Monday he was very late. His mother asked, "Why are you so late t...
+Q: His mother might   be very   _  when she heard about that.
+A: angry
+
+Passage-Question-Answer Set 106:
+Context: Hi. I'm Lingling. I'm a student at No. 14 Middle School. Do you want to know my life? Let me tell you about it. I usually get up at 7:00 in the morning. I have my breakfast at 7:10. My parents always ...
+Q: I have my breakfast at   _  .
+A: 7:10
+
+Passage-Question-Answer Set 107:
+Context: Hi. I'm Lingling. I'm a student at No. 14 Middle School. Do you want to know my life? Let me tell you about it. I usually get up at 7:00 in the morning. I have my breakfast at 7:10. My parents always ...
+Q: I have seven lessons   _  .
+A: every day
+
+Passage-Question-Answer Set 108:
+Context: Hi. I'm Lingling. I'm a student at No. 14 Middle School. Do you want to know my life? Let me tell you about it. I usually get up at 7:00 in the morning. I have my breakfast at 7:10. My parents always ...
+Q: I like   _   very much.
+A: English
+
+Passage-Question-Answer Set 109:
+Context: Hi. I'm Lingling. I'm a student at No. 14 Middle School. Do you want to know my life? Let me tell you about it. I usually get up at 7:00 in the morning. I have my breakfast at 7:10. My parents always ...
+Q: There is a big   _   in No. 14 Secondary School.
+A: playground
+
+Passage-Question-Answer Set 110:
+Context: Hi. I'm Lingling. I'm a student at No. 14 Middle School. Do you want to know my life? Let me tell you about it. I usually get up at 7:00 in the morning. I have my breakfast at 7:10. My parents always ...
+Q: I like playing   _   with my friends.
+A: table tennis and basketball
+
+Passage-Question-Answer Set 111:
+Context: Swimming is very popular. People like swimming in summer because water makes people feel cool. If you like swimming but swim in a wrong place, it may not be safe. These years, a lot of people die when...
+Q: People like swimming in summer because   _  .
+A: they feel cool in the water
+
+Passage-Question-Answer Set 112:
+Context: Swimming is very popular. People like swimming in summer because water makes people feel cool. If you like swimming but swim in a wrong place, it may not be safe. These years, a lot of people die when...
+Q: Swimming may not be safe if   _  .
+A: you swim in dangerous places.
+
+Passage-Question-Answer Set 113:
+Context: Swimming is very popular. People like swimming in summer because water makes people feel cool. If you like swimming but swim in a wrong place, it may not be safe. These years, a lot of people die when...
+Q: These years many   _   die in the water when they swim happily.
+A: young people
+
+Passage-Question-Answer Set 114:
+Context: Swimming is very popular. People like swimming in summer because water makes people feel cool. If you like swimming but swim in a wrong place, it may not be safe. These years, a lot of people die when...
+Q: Some swimmers die in water because   _  .
+A: they are not careful
+
+Passage-Question-Answer Set 115:
+Context: Swimming is very popular. People like swimming in summer because water makes people feel cool. If you like swimming but swim in a wrong place, it may not be safe. These years, a lot of people die when...
+Q: The writer wants to tell us that   _  .
+A: we must be careful when we are swimming
+
+Passage-Question-Answer Set 116:
+Context: My favourite sport is basketball because it is very exciting. I like basketball because the NBA stars play very well. Basketball is very cheap and it is a good sport for our health. We can grow taller...
+Q: I like basketball best because it's   _  .
+A: exciting
+
+Passage-Question-Answer Set 117:
+Context: My favourite sport is basketball because it is very exciting. I like basketball because the NBA stars play very well. Basketball is very cheap and it is a good sport for our health. We can grow taller...
+Q: How many times do I play basketball every week?
+A: three
+
+Passage-Question-Answer Set 118:
+Context: My favourite sport is basketball because it is very exciting. I like basketball because the NBA stars play very well. Basketball is very cheap and it is a good sport for our health. We can grow taller...
+Q: I often play basketball   _
+A: with my friends
+
+Passage-Question-Answer Set 119:
+Context: My favourite sport is basketball because it is very exciting. I like basketball because the NBA stars play very well. Basketball is very cheap and it is a good sport for our health. We can grow taller...
+Q: Why do I like basketball?
+A: A, B and C
+
+Passage-Question-Answer Set 120:
+Context: My favourite sport is basketball because it is very exciting. I like basketball because the NBA stars play very well. Basketball is very cheap and it is a good sport for our health. We can grow taller...
+Q: The best title  for the passage is   _  -
+A: My favourite sport
+
+Passage-Question-Answer Set 121:
+Context: Nasreddin woke up in the middle of the night and saw something white in his garden. It seemed to be moving towards the house.
+That is a thief ! He thought, and he took his gun and shot  at him. Then h...
+Q: . At midnight, Nasreddin saw   _  in his garden.
+A: something white
+
+Passage-Question-Answer Set 122:
+Context: Nasreddin woke up in the middle of the night and saw something white in his garden. It seemed to be moving towards the house.
+That is a thief ! He thought, and he took his gun and shot  at him. Then h...
+Q: . Nasreddin was so frightened that he   _  .
+A: dared not go out of the house
+
+Passage-Question-Answer Set 123:
+Context: Nasreddin woke up in the middle of the night and saw something white in his garden. It seemed to be moving towards the house.
+That is a thief ! He thought, and he took his gun and shot  at him. Then h...
+Q: The next morning Nasreddin found  _   .
+A: a bullet-hole through the white shirt
+
+Passage-Question-Answer Set 124:
+Context: Nasreddin woke up in the middle of the night and saw something white in his garden. It seemed to be moving towards the house.
+That is a thief ! He thought, and he took his gun and shot  at him. Then h...
+Q: .Nasreddin was a   _   man.
+A: foolish
+
+Passage-Question-Answer Set 125:
+Context: Nasreddin woke up in the middle of the night and saw something white in his garden. It seemed to be moving towards the house.
+That is a thief ! He thought, and he took his gun and shot  at him. Then h...
+Q: He called his neighbors together in order to  _  .
+A: thank God
+
+Passage-Question-Answer Set 126:
+Context: It had been snowing very hard for days. Jigs and Reads had nothing to eat for a day. They know that things weren't right at home. So yesterday morning they wanted to go out. Bob helped them get out th...
+Q: Jigs and Reads in the story were   _  .
+A: dogs
+
+Passage-Question-Answer Set 127:
+Context: It had been snowing very hard for days. Jigs and Reads had nothing to eat for a day. They know that things weren't right at home. So yesterday morning they wanted to go out. Bob helped them get out th...
+Q: They know that things weren't right at home. It means that they know   _  .
+A: Bob had no food to give them
+
+Passage-Question-Answer Set 128:
+Context: It had been snowing very hard for days. Jigs and Reads had nothing to eat for a day. They know that things weren't right at home. So yesterday morning they wanted to go out. Bob helped them get out th...
+Q: Finally, Jigs and Reads returned with a big   _  .
+A: hare
+
+Passage-Question-Answer Set 129:
+Context: It had been snowing very hard for days. Jigs and Reads had nothing to eat for a day. They know that things weren't right at home. So yesterday morning they wanted to go out. Bob helped them get out th...
+Q: .The story says that Jigs and Reads   _  .
+A: were a great help to Bob
+
+Passage-Question-Answer Set 130:
+Context: An old farmer lived with his little grandson. Every day the farmer got up early to read books.
+One day the grandson asked, "Grandpa! I want to read books just like you, but I don't understand them. Wh...
+Q: The grandfather got up early to   _  .
+A: read books
+
+Passage-Question-Answer Set 131:
+Context: An old farmer lived with his little grandson. Every day the farmer got up early to read books.
+One day the grandson asked, "Grandpa! I want to read books just like you, but I don't understand them. Wh...
+Q: The passage might be written for   _   to read.
+A: children who dislike reading
+
+Passage-Question-Answer Set 132:
+Context: An old farmer lived with his little grandson. Every day the farmer got up early to read books.
+One day the grandson asked, "Grandpa! I want to read books just like you, but I don't understand them. Wh...
+Q: The basket was   _   in the end.
+A: clean
+
+Passage-Question-Answer Set 133:
+Context: An old farmer lived with his little grandson. Every day the farmer got up early to read books.
+One day the grandson asked, "Grandpa! I want to read books just like you, but I don't understand them. Wh...
+Q: What can we know from the passage?
+A: The old farmer might be changed by reading.
+
+Passage-Question-Answer Set 134:
+Context: In 1620,about half the USA was covered by forests .Today the forests have almost gone .A lot of good land has gone with them ,leaving only sand .China doesn't want to copy the USA's example.We're plan...
+Q: In 1620 ,about  _   the USA was covered by forests
+A: half
+
+Passage-Question-Answer Set 135:
+Context: In 1620,about half the USA was covered by forests .Today the forests have almost gone .A lot of good land has gone with them ,leaving only sand .China doesn't want to copy the USA's example.We're plan...
+Q: A lot of good land has gone with   _  .
+A: forests
+
+Passage-Question-Answer Set 136:
+Context: In 1620,about half the USA was covered by forests .Today the forests have almost gone .A lot of good land has gone with them ,leaving only sand .China doesn't want to copy the USA's example.We're plan...
+Q: The "Great Green Wall"In China is   _  long
+A: 7,000 kilometers
+
+Passage-Question-Answer Set 137:
+Context: In 1620,about half the USA was covered by forests .Today the forests have almost gone .A lot of good land has gone with them ,leaving only sand .China doesn't want to copy the USA's example.We're plan...
+Q: Trees must be grown in   _  .
+A: every part of the world
+
+Passage-Question-Answer Set 138:
+Context: In 1620,about half the USA was covered by forests .Today the forests have almost gone .A lot of good land has gone with them ,leaving only sand .China doesn't want to copy the USA's example.We're plan...
+Q: _   will make the world better .
+A: Great Green Wall
+
+Passage-Question-Answer Set 139:
+Context: Canada geese are large blue and white birds .When autumn arrives ,they have to fly south where the weather is warmer .The winters are so cold in Canada that the birds will die if they stay there .
+Las...
+Q: Canda geese have to flly south  _  .
+A: after summer
+
+Passage-Question-Answer Set 140:
+Context: Canada geese are large blue and white birds .When autumn arrives ,they have to fly south where the weather is warmer .The winters are so cold in Canada that the birds will die if they stay there .
+Las...
+Q: The young birds  _  ,so they could follow Bill to Virginia .
+A: were well trained
+
+Passage-Question-Answer Set 141:
+Context: Canada geese are large blue and white birds .When autumn arrives ,they have to fly south where the weather is warmer .The winters are so cold in Canada that the birds will die if they stay there .
+Las...
+Q: Bill took the birds to virginia because   _  .
+A: it's warmer there
+
+Passage-Question-Answer Set 142:
+Context: Canada geese are large blue and white birds .When autumn arrives ,they have to fly south where the weather is warmer .The winters are so cold in Canada that the birds will die if they stay there .
+Las...
+Q: The birds returned to Bill's home  _  .
+A: by themselves
+
+Passage-Question-Answer Set 143:
+Context: Canada geese are large blue and white birds .When autumn arrives ,they have to fly south where the weather is warmer .The winters are so cold in Canada that the birds will die if they stay there .
+Las...
+Q: .From the passage we can know that Bill   _  .
+A: likes the birds very much
+
+Passage-Question-Answer Set 144:
+Context: Most people want to work, but in today's word ,it is more difficult to find work for everybody.The economics of the world need to grow by 4% each year just to keep the old number of jobs for people.
+O...
+Q: The economics of the world need to grow to  _  .
+A: keep the old number of jobs of people
+
+Passage-Question-Answer Set 145:
+Context: Most people want to work, but in today's word ,it is more difficult to find work for everybody.The economics of the world need to grow by 4% each year just to keep the old number of jobs for people.
+O...
+Q: Some people are out of work because   _  .
+A: of the machines
+
+Passage-Question-Answer Set 146:
+Context: Most people want to work, but in today's word ,it is more difficult to find work for everybody.The economics of the world need to grow by 4% each year just to keep the old number of jobs for people.
+O...
+Q: About machines,which of the following is NOT RIGHT?  _  .
+A: Machines cant't take work from people at all.
+
+Passage-Question-Answer Set 147:
+Context: Most people want to work, but in today's word ,it is more difficult to find work for everybody.The economics of the world need to grow by 4% each year just to keep the old number of jobs for people.
+O...
+Q: .How many people can't find jobs every day   _  ?
+A: 22500
+
+Passage-Question-Answer Set 148:
+Context: Most people want to work, but in today's word ,it is more difficult to find work for everybody.The economics of the world need to grow by 4% each year just to keep the old number of jobs for people.
+O...
+Q: .From the passage, we know   _  .
+A: it's not possible for everybody to find work.
+
+Passage-Question-Answer Set 149:
+Context: Beijing Opera is also called Peking Opera.. It came into being after 1790 when the famous four  Anhui opera troupe  came to Beijing. Its music and singing  came from Xipi and Er-huang in Anhui and Hub...
+Q: .Beijing Opera's singing is from   _  .
+A: Anhui and hubei
+
+Passage-Question-Answer Set 150:
+Context: Beijing Opera is also called Peking Opera.. It came into being after 1790 when the famous four  Anhui opera troupe  came to Beijing. Its music and singing  came from Xipi and Er-huang in Anhui and Hub...
+Q: From the reading ,we know the the Chou most probably has a(n)   _  feature.
+A: funny
+
+Passage-Question-Answer Set 151:
+Context: Beijing Opera is also called Peking Opera.. It came into being after 1790 when the famous four  Anhui opera troupe  came to Beijing. Its music and singing  came from Xipi and Er-huang in Anhui and Hub...
+Q: .Which of the following statements is TURE?
+A: Peking Opera is full of different gestures.
+
+Passage-Question-Answer Set 152:
+Context: Beijing Opera is also called Peking Opera.. It came into being after 1790 when the famous four  Anhui opera troupe  came to Beijing. Its music and singing  came from Xipi and Er-huang in Anhui and Hub...
+Q: What role is Sheng ?
+A: the eading male actor
+
+Passage-Question-Answer Set 153:
+Context: J.K. Rowling is the writer of Harry Potter, which is now one of the bestsellers in the world.
+J.K. Rowling was born in Bristol on July 31st, 1965. She has one sister who is two years younger than her....
+Q: From the passage, we know   _  .
+A: J.K. Rowling loved listening to stories when she was very young
+
+Passage-Question-Answer Set 154:
+Context: J.K. Rowling is the writer of Harry Potter, which is now one of the bestsellers in the world.
+J.K. Rowling was born in Bristol on July 31st, 1965. She has one sister who is two years younger than her....
+Q: The Harry Potter series is   _  .
+A: written for young people
+
+Passage-Question-Answer Set 155:
+Context: J.K. Rowling is the writer of Harry Potter, which is now one of the bestsellers in the world.
+J.K. Rowling was born in Bristol on July 31st, 1965. She has one sister who is two years younger than her....
+Q: J.K. Rowling has been successful, and she   _  .
+A: is still writing stories for children
+
+Passage-Question-Answer Set 156:
+Context: J.K. Rowling is the writer of Harry Potter, which is now one of the bestsellers in the world.
+J.K. Rowling was born in Bristol on July 31st, 1965. She has one sister who is two years younger than her....
+Q: How is Harry Potter series different from other magical stories?
+A: The stories happened in the modern world.
+
+Passage-Question-Answer Set 157:
+Context: Today, roller-skating is easy and fun. But a long time ago, it wasn't easy at all. Before 1750, no one had any ideas of roller-skating. That changed because of a man named Joseph Merlin. He liked to m...
+Q: People thought Merlin was a dreamer because he   _  .
+A: was full of strange ideas.
+
+Passage-Question-Answer Set 158:
+Context: Today, roller-skating is easy and fun. But a long time ago, it wasn't easy at all. Before 1750, no one had any ideas of roller-skating. That changed because of a man named Joseph Merlin. He liked to m...
+Q: Merlin wanted to   _  , so he put wheels under his shoes.
+A: surprise the people at the party
+
+Passage-Question-Answer Set 159:
+Context: Today, roller-skating is easy and fun. But a long time ago, it wasn't easy at all. Before 1750, no one had any ideas of roller-skating. That changed because of a man named Joseph Merlin. He liked to m...
+Q: Which of the following is TRUE?
+A: Merlin made a surprising entrance that day.
+
+Passage-Question-Answer Set 160:
+Context: Mike lives in Zhengzhou of China. But he is from Canada. He is 12 years old this year. He speaks English. And he speaks Chinese a little. Mingming is his good friend. He is a Chinese boy. He often goe...
+Q: Where is Mike from?
+A: Canada
+
+Passage-Question-Answer Set 161:
+Context: Mike lives in Zhengzhou of China. But he is from Canada. He is 12 years old this year. He speaks English. And he speaks Chinese a little. Mingming is his good friend. He is a Chinese boy. He often goe...
+Q: Who helps Mike with Chinese?
+A: Mingming
+
+Passage-Question-Answer Set 162:
+Context: Mike lives in Zhengzhou of China. But he is from Canada. He is 12 years old this year. He speaks English. And he speaks Chinese a little. Mingming is his good friend. He is a Chinese boy. He often goe...
+Q: What's the name of Mike's pet?
+A: Wangwang
+
+Passage-Question-Answer Set 163:
+Context: Mike lives in Zhengzhou of China. But he is from Canada. He is 12 years old this year. He speaks English. And he speaks Chinese a little. Mingming is his good friend. He is a Chinese boy. He often goe...
+Q: Where does Mingming play with Wangwang?
+A: in Mike's home.
+
+Passage-Question-Answer Set 164:
+Context: One morning, Mr. Smith came into the garden at the back of his house. He saw so much snow in the garden. Mr. Smith wanted to take his car out, so he asked a man to clean the road from his garage   to ...
+Q: In the morning Mr. Smith found   _   was full of snow.
+A: his garden
+
+Passage-Question-Answer Set 165:
+Context: One morning, Mr. Smith came into the garden at the back of his house. He saw so much snow in the garden. Mr. Smith wanted to take his car out, so he asked a man to clean the road from his garage   to ...
+Q: He wanted a man to clean the road because   _  .
+A: He wanted to take his car out.
+
+Passage-Question-Answer Set 166:
+Context: One morning, Mr. Smith came into the garden at the back of his house. He saw so much snow in the garden. Mr. Smith wanted to take his car out, so he asked a man to clean the road from his garage   to ...
+Q: Where was Mr. Smith's car?
+A: Under the snow.
+
+Passage-Question-Answer Set 167:
+Context: What would you do if a stranger gave you some medicine and it would keep you slim or help you do well in exams? Would you take it?
+Students at Shenzhen Luohu Foreign Language Middle School have learne...
+Q: Teens wants to try drugs because   _   .
+A: they don't know about the harm of drugs
+
+Passage-Question-Answer Set 168:
+Context: What would you do if a stranger gave you some medicine and it would keep you slim or help you do well in exams? Would you take it?
+Students at Shenzhen Luohu Foreign Language Middle School have learne...
+Q: From Liang's story, we can know that it's   _   to give up drugs even if one tries only once.
+A: hard
+
+Passage-Question-Answer Set 169:
+Context: What would you do if a stranger gave you some medicine and it would keep you slim or help you do well in exams? Would you take it?
+Students at Shenzhen Luohu Foreign Language Middle School have learne...
+Q: According to a survey, about   _   young people in China were using illegal drugs last year.
+A: 720,000
+
+Passage-Question-Answer Set 170:
+Context: What would you do if a stranger gave you some medicine and it would keep you slim or help you do well in exams? Would you take it?
+Students at Shenzhen Luohu Foreign Language Middle School have learne...
+Q: What does the phrase "staying clean" here mean?
+A: Staying away from drugs.
+
+Passage-Question-Answer Set 171:
+Context: Television is good.You'd like to watch it all day and all night.But too much TV is a very bad thing.Scientists found that kids who watch too much TV may have more trouble learning to read.They can't f...
+Q: Scientists say if kids watch too much TV,they will  _  .
+A: find it hard to learn to read
+
+Passage-Question-Answer Set 172:
+Context: Television is good.You'd like to watch it all day and all night.But too much TV is a very bad thing.Scientists found that kids who watch too much TV may have more trouble learning to read.They can't f...
+Q: While watching TV,what DON'T people do?
+A: Focus on their work
+
+Passage-Question-Answer Set 173:
+Context: Television is good.You'd like to watch it all day and all night.But too much TV is a very bad thing.Scientists found that kids who watch too much TV may have more trouble learning to read.They can't f...
+Q: Which of the following is true?
+A: Kids who watch too much TV may have more problems with reading.
+
+Passage-Question-Answer Set 174:
+Context: Jerry Green went to spend a year at the South Pole Station  as the only doctor in 1998 when she 47. While working at the station that March. she discovered that there was a hard lump   in her stomach....
+Q: When did she start her own treatments?
+A: After getting instructions from A merit an doctors.
+
+Passage-Question-Answer Set 175:
+Context: Jerry Green went to spend a year at the South Pole Station  as the only doctor in 1998 when she 47. While working at the station that March. she discovered that there was a hard lump   in her stomach....
+Q: Which of the following statements is NOT true?
+A: Dr. Green decided to give up the treatments.
+
+Passage-Question-Answer Set 176:
+Context: Once there was a king. He had two old ministers. One was kind and the other was bad. The bad minister often said bad words about the kind minister before the king. The king was very angry.
+One day the...
+Q: The king was angry with   _  .
+A: the kind minister
+
+Passage-Question-Answer Set 177:
+Context: Once there was a king. He had two old ministers. One was kind and the other was bad. The bad minister often said bad words about the kind minister before the king. The king was very angry.
+One day the...
+Q: Who was told to write "live" and "die"?
+A: The bad minister .
+
+Passage-Question-Answer Set 178:
+Context: Once there was a king. He had two old ministers. One was kind and the other was bad. The bad minister often said bad words about the kind minister before the king. The king was very angry.
+One day the...
+Q: The kind minister would   _   if he chose the paper with "live" on it.
+A: live
+
+Passage-Question-Answer Set 179:
+Context: Once there was a king. He had two old ministers. One was kind and the other was bad. The bad minister often said bad words about the kind minister before the king. The king was very angry.
+One day the...
+Q: There is no "live" on both pieces of paper because   _  .
+A: the bad minister hated the kind minister and wanted to kill him
+
+Passage-Question-Answer Set 180:
+Context: Once there was a king. He had two old ministers. One was kind and the other was bad. The bad minister often said bad words about the kind minister before the king. The king was very angry.
+One day the...
+Q: _   must be disappointed in the end.
+A: The bad minister
+
+Passage-Question-Answer Set 181:
+Context: The rapid growth of Smartphones and electronic tablets is making the Internet favourite for Americans reading news, a report said.
+News consumption online increased 17% last year from the year before....
+Q: Americans like getting news from   _   best today.
+A: the Internet
+
+Passage-Question-Answer Set 182:
+Context: The rapid growth of Smartphones and electronic tablets is making the Internet favourite for Americans reading news, a report said.
+News consumption online increased 17% last year from the year before....
+Q: About   _   % of Americans got most of their news on the Internet in 2009.
+A: 17
+
+Passage-Question-Answer Set 183:
+Context: The rapid growth of Smartphones and electronic tablets is making the Internet favourite for Americans reading news, a report said.
+News consumption online increased 17% last year from the year before....
+Q: About 3.5% of Americans had electronic tablets in   _  .
+A: October, 2010
+
+Passage-Question-Answer Set 184:
+Context: The rapid growth of Smartphones and electronic tablets is making the Internet favourite for Americans reading news, a report said.
+News consumption online increased 17% last year from the year before....
+Q: The news business depends on   _   today.
+A: the software developers
+
+Passage-Question-Answer Set 185:
+Context: Do you like drinking Coke? As a symbol of American culture, Coca-Cola is liked by many people, especially young people all around the world. But from now on, perhaps it will be hard for students in th...
+Q: What kind of beverage is NOT allowed to sell on campus?
+A: High-sugar fizzy drinks.
+
+Passage-Question-Answer Set 186:
+Context: Do you like drinking Coke? As a symbol of American culture, Coca-Cola is liked by many people, especially young people all around the world. But from now on, perhaps it will be hard for students in th...
+Q: What is the writer's attitude towards limits on junk food?
+A: Positive.
+
+Passage-Question-Answer Set 187:
+Context: Do you like drinking Coke? As a symbol of American culture, Coca-Cola is liked by many people, especially young people all around the world. But from now on, perhaps it will be hard for students in th...
+Q: Which of the following statements is WRONG?
+A: Coca-Cola isn't very popular in the world.
+
+Passage-Question-Answer Set 188:
+Context: Do you like drinking Coke? As a symbol of American culture, Coca-Cola is liked by many people, especially young people all around the world. But from now on, perhaps it will be hard for students in th...
+Q: Which is the best title of the passage?
+A: Say "Goodbye" to Coca-Cola
+
+Passage-Question-Answer Set 189:
+Context: Many students in China are learning English. Some of these students are small children. Others are teenagers . Many are adults . Some study at school, others learn by themselves. A few learn English l...
+Q: Are there many adults learning English in China?
+A: Yes, there are.
+
+Passage-Question-Answer Set 190:
+Context: Many students in China are learning English. Some of these students are small children. Others are teenagers . Many are adults . Some study at school, others learn by themselves. A few learn English l...
+Q: _  learn English.
+A: Small children, teenagers and adults.
+
+Passage-Question-Answer Set 191:
+Context: Many students in China are learning English. Some of these students are small children. Others are teenagers . Many are adults . Some study at school, others learn by themselves. A few learn English l...
+Q: Which of the following is true?
+A: Different people have different reasons for learning English.
+
+Passage-Question-Answer Set 192:
+Context: Many students in China are learning English. Some of these students are small children. Others are teenagers . Many are adults . Some study at school, others learn by themselves. A few learn English l...
+Q: "Their own language" means  _  .
+A: Chinese
+
+Passage-Question-Answer Set 193:
+Context: Harry had a very small farm. He only had one cow but dreamed about having a large farm. He once asked his father Bill, "I'd like to have that land over there. How can I get it?" His father encouraged ...
+Q: The passage tells us that   _  .
+A: Making your dream come true depends on  yourself
+
+Passage-Question-Answer Set 194:
+Context: Harry had a very small farm. He only had one cow but dreamed about having a large farm. He once asked his father Bill, "I'd like to have that land over there. How can I get it?" His father encouraged ...
+Q: The reason why Harry got the land and many cows was   _  .
+A: he worked hard to get money
+
+Passage-Question-Answer Set 195:
+Context: Harry had a very small farm. He only had one cow but dreamed about having a large farm. He once asked his father Bill, "I'd like to have that land over there. How can I get it?" His father encouraged ...
+Q: From this passage, we can learn that   _  .
+A: Harry's success comes from his dream amd working hard
+
+Passage-Question-Answer Set 196:
+Context: What's your favorite cartoon? It may be difficult for you to decide. But for pianist Lang Lang, Tom and Jerry is the best one.
+When Lang was two years old, he saw Tom play the piano. This was his firs...
+Q: What made Langlang first enjoy western music?
+A: When he saw Tom play the piano at two.
+
+Passage-Question-Answer Set 197:
+Context: What's your favorite cartoon? It may be difficult for you to decide. But for pianist Lang Lang, Tom and Jerry is the best one.
+When Lang was two years old, he saw Tom play the piano. This was his firs...
+Q: How old was Langlang when he became a student of a famous American music college?
+A: fifteen
+
+Passage-Question-Answer Set 198:
+Context: What's your favorite cartoon? It may be difficult for you to decide. But for pianist Lang Lang, Tom and Jerry is the best one.
+When Lang was two years old, he saw Tom play the piano. This was his firs...
+Q: What is Langlang famous for?
+A: He is famous for making facial  expressions and moving around while playing the piano.
+
+Passage-Question-Answer Set 199:
+Context: What's your favorite cartoon? It may be difficult for you to decide. But for pianist Lang Lang, Tom and Jerry is the best one.
+When Lang was two years old, he saw Tom play the piano. This was his firs...
+Q: Why did Langlang's mother stay in Shenyang?
+A: Because she had to make money to pay for Langlang's education.
+
+Passage-Question-Answer Set 200:
+Context: What's your favorite cartoon? It may be difficult for you to decide. But for pianist Lang Lang, Tom and Jerry is the best one.
+When Lang was two years old, he saw Tom play the piano. This was his firs...
+Q: From the passage, we can say it   _   Langlang and his parents a lot of time to get success.
+A: took
+
+Passage-Question-Answer Set 201:
+Context: On very cold winter days , a group of Japanese children travelled a long way and arrived at a small island where nobody lived. After setting up a camp, they caught fish in the sea, and walked on the s...
+Q: Many Japanese children set up camps in far-off mountains or forests to   _  .
+A: experience hardships
+
+Passage-Question-Answer Set 202:
+Context: On very cold winter days , a group of Japanese children travelled a long way and arrived at a small island where nobody lived. After setting up a camp, they caught fish in the sea, and walked on the s...
+Q: Children in Japan now hardly find times of hardships because   _  .
+A: their living conditions are greatly improved
+
+Passage-Question-Answer Set 203:
+Context: On very cold winter days , a group of Japanese children travelled a long way and arrived at a small island where nobody lived. After setting up a camp, they caught fish in the sea, and walked on the s...
+Q: It seems that hardship camps are   _   in Japan.
+A: very popular
+
+Passage-Question-Answer Set 204:
+Context: On very cold winter days , a group of Japanese children travelled a long way and arrived at a small island where nobody lived. After setting up a camp, they caught fish in the sea, and walked on the s...
+Q: What one group of children did on a small island would help them to learn   _  .
+A: to live in the struggle against nature
+
+Passage-Question-Answer Set 205:
+Context: The red phone box in Britain is a perfect example of the British traditional culture. However, with the fast development of mobile phones, it has lost its place in people's everyday life. In order to ...
+Q: The red phone box has been a symbol of   _  .
+A: the British culture
+
+Passage-Question-Answer Set 206:
+Context: The red phone box in Britain is a perfect example of the British traditional culture. However, with the fast development of mobile phones, it has lost its place in people's everyday life. In order to ...
+Q: People in Somerset turned the red phone box into a mini library to   _  .
+A: help solve the shortage of library service
+
+Passage-Question-Answer Set 207:
+Context: The red phone box in Britain is a perfect example of the British traditional culture. However, with the fast development of mobile phones, it has lost its place in people's everyday life. In order to ...
+Q: Which of the following statements is TRUE about the red phone box?
+A: The library is open to the public day and night.
+
+Passage-Question-Answer Set 208:
+Context: Everyone has got two personalities -the one that is shown to the world and the other that is secret and real. You don't show your secret personality when you're awake because you can control your beha...
+Q: When does the sleeping position best show your secret personality?
+A: During the deep sleep
+
+Passage-Question-Answer Set 209:
+Context: Everyone has got two personalities -the one that is shown to the world and the other that is secret and real. You don't show your secret personality when you're awake because you can control your beha...
+Q: Tina hardly tells her secrets to her friends. She probably goes to sleep  _  .
+A: on her stomach
+
+Passage-Question-Answer Set 210:
+Context: People say that George Washington, the first president of the United States, never told a lie. But it seems that the president was not without faults.
+A New York library recently found that Washington...
+Q: Gorge Washington is  _  .
+A: the first president of the US
+
+Passage-Question-Answer Set 211:
+Context: People say that George Washington, the first president of the United States, never told a lie. But it seems that the president was not without faults.
+A New York library recently found that Washington...
+Q: Gorge Washington borrowed a book from   _  .
+A: the New York Society Library
+
+Passage-Question-Answer Set 212:
+Context: People say that George Washington, the first president of the United States, never told a lie. But it seems that the president was not without faults.
+A New York library recently found that Washington...
+Q: The library hopes   _  .
+A: someone will find the book and return it
+
+Passage-Question-Answer Set 213:
+Context: "Everything happens for the best." Whenever I faced disappointment, my mother would say this to me.
+After I graduated form college in 1932, I decided to find a job in radio as a sports announcer . I w...
+Q: Why couldn't the writer find a job at big radio stations?
+A: Because he didn't have much experience.
+
+Passage-Question-Answer Set 214:
+Context: "Everything happens for the best." Whenever I faced disappointment, my mother would say this to me.
+After I graduated form college in 1932, I decided to find a job in radio as a sports announcer . I w...
+Q: Which of the following is TRUE?
+A: There were no radio announcer jobs in the writer's hometown.
+
+Passage-Question-Answer Set 215:
+Context: Mr Smith was in trouble those days. He drove a car for Mr Black, a rich businessman. He worked hard and the shopkeeper liked him. But he couldn't work when he drank too much.And once he almost fell in...
+Q: _  ,so he almost drove the car into the river.
+A: Mr Smith drank too much
+
+Passage-Question-Answer Set 216:
+Context: Mr Smith was in trouble those days. He drove a car for Mr Black, a rich businessman. He worked hard and the shopkeeper liked him. But he couldn't work when he drank too much.And once he almost fell in...
+Q: What would happen to Mr Smith ?
+A: He would go on driving for Mr Black
+
+Passage-Question-Answer Set 217:
+Context: Like many people ,I have no clear idea about heroes . A t some point , we all wonder if we need a hero and what a hero really is.
+Although there are a lot of differences in cultures, heroes around the...
+Q: ` According to this passage , a hero is a person who always   _
+A: gives us courage
+
+Passage-Question-Answer Set 218:
+Context: Like many people ,I have no clear idea about heroes . A t some point , we all wonder if we need a hero and what a hero really is.
+Although there are a lot of differences in cultures, heroes around the...
+Q: I f you want to live like a hero , you should   _  |
+A: experience a new and meaningful life
+
+Passage-Question-Answer Set 219:
+Context: Like many people ,I have no clear idea about heroes . A t some point , we all wonder if we need a hero and what a hero really is.
+Although there are a lot of differences in cultures, heroes around the...
+Q: Black people in American used to   _   before Martin Luther King Jr.
+A: eat in restaurants without the white
+
+Passage-Question-Answer Set 220:
+Context: Like many people ,I have no clear idea about heroes . A t some point , we all wonder if we need a hero and what a hero really is.
+Although there are a lot of differences in cultures, heroes around the...
+Q: What can we learn from the passage ?
+A: our society has developed faster because of heroes in history.
+
+Passage-Question-Answer Set 221:
+Context: A  man went to see a doctor. "Open your mouth ", the doctor said. The man opened his mouth and the doctor looked in quickly.   "It's clear what's wrong with you .You need more exercise, " the doctor s...
+Q: The post man went to see the doctor because   _
+A: something was wrong with his wife
+
+Passage-Question-Answer Set 222:
+Context: A  man went to see a doctor. "Open your mouth ", the doctor said. The man opened his mouth and the doctor looked in quickly.   "It's clear what's wrong with you .You need more exercise, " the doctor s...
+Q: The doctor thought many people had health problems only because they  _
+A: did not have enough exercise
+
+Passage-Question-Answer Set 223:
+Context: A  man went to see a doctor. "Open your mouth ", the doctor said. The man opened his mouth and the doctor looked in quickly.   "It's clear what's wrong with you .You need more exercise, " the doctor s...
+Q: Which of the following is true?
+A: The postman sent letters on foot.
+
+Passage-Question-Answer Set 224:
+Context: A  man went to see a doctor. "Open your mouth ", the doctor said. The man opened his mouth and the doctor looked in quickly.   "It's clear what's wrong with you .You need more exercise, " the doctor s...
+Q: The story happened   _  .
+A: in the doctor's office
+
+Passage-Question-Answer Set 225:
+Context: There was a pilot  and four people in a small plane.Suddenly there was something wrong with the machine  while it was flying in the air. The smoke was everywhere in the plane.The pilot told the people...
+Q: All the people became worried because  _  .
+A: they were afraid the plane would be broken and knew there were not enough parachutes 
+for each person.
+
+Passage-Question-Answer Set 226:
+Context: There was a pilot  and four people in a small plane.Suddenly there was something wrong with the machine  while it was flying in the air. The smoke was everywhere in the plane.The pilot told the people...
+Q: .The clever man jumped out with  _  .
+A: the pack of the climber's
+
+Passage-Question-Answer Set 227:
+Context: There was a pilot  and four people in a small plane.Suddenly there was something wrong with the machine  while it was flying in the air. The smoke was everywhere in the plane.The pilot told the people...
+Q: All the people thought of themselves only except   _  .
+A: the businessman
+
+Passage-Question-Answer Set 228:
+Context: There was a pilot  and four people in a small plane.Suddenly there was something wrong with the machine  while it was flying in the air. The smoke was everywhere in the plane.The pilot told the people...
+Q: From the story we know that   _   would be dead .
+A: the clever man
+
+Passage-Question-Answer Set 229:
+Context: My name is Linda. I'm a girl. I live in Canada .I have two big eyes. My eyes are green. I have long, red hair. I am 1.6 meters tall. I have long arms and long legs. I like black .Black is my favourite...
+Q: Lin Na lives in   _
+A: Canada
+
+Passage-Question-Answer Set 230:
+Context: My name is Linda. I'm a girl. I live in Canada .I have two big eyes. My eyes are green. I have long, red hair. I am 1.6 meters tall. I have long arms and long legs. I like black .Black is my favourite...
+Q: Lin Na and I are good friends, but we look   _  .
+A: different
+
+Passage-Question-Answer Set 231:
+Context: My name is Linda. I'm a girl. I live in Canada .I have two big eyes. My eyes are green. I have long, red hair. I am 1.6 meters tall. I have long arms and long legs. I like black .Black is my favourite...
+Q: Lin Na has black eyes, but Linda has   _  eyes.
+A: green
+
+Passage-Question-Answer Set 232:
+Context: My name is Linda. I'm a girl. I live in Canada .I have two big eyes. My eyes are green. I have long, red hair. I am 1.6 meters tall. I have long arms and long legs. I like black .Black is my favourite...
+Q: Linda's friend likes   _
+A: yellow
+
+Passage-Question-Answer Set 233:
+Context: My name is Linda. I'm a girl. I live in Canada .I have two big eyes. My eyes are green. I have long, red hair. I am 1.6 meters tall. I have long arms and long legs. I like black .Black is my favourite...
+Q: Lin Na is   _  ,but Linda is tall.
+A: short
+
+Passage-Question-Answer Set 234:
+Context: Computers can injure you. Most other injuries happen suddenly. For example, if you fall off a bike and break your arms, it happens very quickly. But computer injuries slowly.
+You probably know how to ...
+Q: Hand and wrist injuries are caused when you   _  .
+A: move in the same way again and again
+
+Passage-Question-Answer Set 235:
+Context: Computers can injure you. Most other injuries happen suddenly. For example, if you fall off a bike and break your arms, it happens very quickly. But computer injuries slowly.
+You probably know how to ...
+Q: Your eyes and hands will be safe if   _  .
+A: you often take a rest from working
+
+Passage-Question-Answer Set 236:
+Context: Computers can injure you. Most other injuries happen suddenly. For example, if you fall off a bike and break your arms, it happens very quickly. But computer injuries slowly.
+You probably know how to ...
+Q: It is good for your back and neck if you sit   _  .
+A: in the right way
+
+Passage-Question-Answer Set 237:
+Context: Computers can injure you. Most other injuries happen suddenly. For example, if you fall off a bike and break your arms, it happens very quickly. But computer injuries slowly.
+You probably know how to ...
+Q: What would be the best title for the passage?
+A: How to use a computer safely.
+
+Passage-Question-Answer Set 238:
+Context: All living things on the earth need other living things to live. Nothing lives alone. Most animals must live in a group, and even a plant grows close together with others of the same kind. Sometimes o...
+Q: Which living things can use the sun's energy directly?
+A: Plants.
+
+Passage-Question-Answer Set 239:
+Context: All living things on the earth need other living things to live. Nothing lives alone. Most animals must live in a group, and even a plant grows close together with others of the same kind. Sometimes o...
+Q: Who often destroy the food chains?
+A: Humans.
+
+Passage-Question-Answer Set 240:
+Context: All living things on the earth need other living things to live. Nothing lives alone. Most animals must live in a group, and even a plant grows close together with others of the same kind. Sometimes o...
+Q: Which of the following would be the best title for this passage?
+A: Food Chains
+
+Passage-Question-Answer Set 241:
+Context: When can I get a cell phone?" The answer is when your parents think you need one, though many kids seem to be getting them around age 12 or 13. Some younger kids may have them because their parents se...
+Q: Parents buy cell phones for their kids because   _  .
+A: they think it is necessary
+
+Passage-Question-Answer Set 242:
+Context: When can I get a cell phone?" The answer is when your parents think you need one, though many kids seem to be getting them around age 12 or 13. Some younger kids may have them because their parents se...
+Q: The author of the passage   _  .
+A: may have done a survey on kids using cell phones
+
+Passage-Question-Answer Set 243:
+Context: When can I get a cell phone?" The answer is when your parents think you need one, though many kids seem to be getting them around age 12 or 13. Some younger kids may have them because their parents se...
+Q: Which of the following is true?
+A: A cell phone is useful for kids and their parents.
+
+Passage-Question-Answer Set 244:
+Context: When can I get a cell phone?" The answer is when your parents think you need one, though many kids seem to be getting them around age 12 or 13. Some younger kids may have them because their parents se...
+Q: Who is the passage most probably written by?
+A: Someone who works for children's education.
+
+Passage-Question-Answer Set 245:
+Context: When can I get a cell phone?" The answer is when your parents think you need one, though many kids seem to be getting them around age 12 or 13. Some younger kids may have them because their parents se...
+Q: Which might not be a rule for kids with a cell phone?
+A: Keep it on all the time.
+
+Passage-Question-Answer Set 246:
+Context: Did you watch the magic shows played by Liu Qian from Taiwan in the 2009 CCTV Spring Festival Gala ? They attracted great attention and wide interests of the audience  . During the gala, Liu mangaged ...
+Q: Liu Qian becomes famous  _  .
+A: for his magic shows.
+
+Passage-Question-Answer Set 247:
+Context: Did you watch the magic shows played by Liu Qian from Taiwan in the 2009 CCTV Spring Festival Gala ? They attracted great attention and wide interests of the audience  . During the gala, Liu mangaged ...
+Q: According to the passage, we can use the following words to describe Liu Qian  EXCEPT  _  .
+A: satisfied
+
+Passage-Question-Answer Set 248:
+Context: Do you learn from your mistakes? I hope so. But have you ever made the same mistake twice? I have.Sometimes I make the same mistake three or four times!
+Sometimes,good things happen because of mistake...
+Q: The boy saw   _   on the wrong train.
+A: his friend
+
+Passage-Question-Answer Set 249:
+Context: Do you learn from your mistakes? I hope so. But have you ever made the same mistake twice? I have.Sometimes I make the same mistake three or four times!
+Sometimes,good things happen because of mistake...
+Q: His mother asked him to   _  .
+A: keep a secret about party.
+
+Passage-Question-Answer Set 250:
+Context: Do you learn from your mistakes? I hope so. But have you ever made the same mistake twice? I have.Sometimes I make the same mistake three or four times!
+Sometimes,good things happen because of mistake...
+Q: What does the boy think of mistakes?
+A: Sometimes a mistake can be a good thing.
+
+Passage-Question-Answer Set 251:
+Context: The Internet joins millions of computers all over the world, and it's used by people all over the world. It was invented in the 1960s in the USA. The American government needed a network of computers ...
+Q: When was the Internet invented?
+A: In the 1960s
+
+Passage-Question-Answer Set 252:
+Context: The Internet joins millions of computers all over the world, and it's used by people all over the world. It was invented in the 1960s in the USA. The American government needed a network of computers ...
+Q: Who made the Internet easier to use?
+A: A British scientist
+
+Passage-Question-Answer Set 253:
+Context: The Internet joins millions of computers all over the world, and it's used by people all over the world. It was invented in the 1960s in the USA. The American government needed a network of computers ...
+Q: Why is email better than snail mail?
+A: Because email is cheaper and quicker.
+
+Passage-Question-Answer Set 254:
+Context: The Internet joins millions of computers all over the world, and it's used by people all over the world. It was invented in the 1960s in the USA. The American government needed a network of computers ...
+Q: According to the passage, which of the following is not true.
+A: The World Wide Web allows us to communicate with other people.
+
+Passage-Question-Answer Set 255:
+Context: The Internet joins millions of computers all over the world, and it's used by people all over the world. It was invented in the 1960s in the USA. The American government needed a network of computers ...
+Q: What's the best title of the passage?
+A: The history of the Internet
+
+Passage-Question-Answer Set 256:
+Context: The Xin'an Street Community began three programs not long ago.
+The Neighborhood Clean-up Program
+Every Sunday at 5:00pm, the neighbors begin cleaning Xin'an Street from one end to the other. The head ...
+Q: When do the neighbors of the Clean-up Program clean Xin'an Street?
+A: Every Sunday afternoon.
+
+Passage-Question-Answer Set 257:
+Context: The Xin'an Street Community began three programs not long ago.
+The Neighborhood Clean-up Program
+Every Sunday at 5:00pm, the neighbors begin cleaning Xin'an Street from one end to the other. The head ...
+Q: Who is Zhao Fuqin?
+A: The head of Xin'an Street Community.
+
+Passage-Question-Answer Set 258:
+Context: The Xin'an Street Community began three programs not long ago.
+The Neighborhood Clean-up Program
+Every Sunday at 5:00pm, the neighbors begin cleaning Xin'an Street from one end to the other. The head ...
+Q: The community started   _   to help people keep healthy.
+A: the Fitness Program
+
+Passage-Question-Answer Set 259:
+Context: The Xin'an Street Community began three programs not long ago.
+The Neighborhood Clean-up Program
+Every Sunday at 5:00pm, the neighbors begin cleaning Xin'an Street from one end to the other. The head ...
+Q: From the passage we know that   _   in the Xin'an Street Community.
+A: the environment is getting nicer and cleaner now
+
+Passage-Question-Answer Set 260:
+Context: Almost every child in big cities has the chance to go to school. Nine years' studying helps children to prepare for their future lives. In fact, many students can study for more than nine years. Not a...
+Q: _  can go to school.
+A: Almost everyone in big cities
+
+Passage-Question-Answer Set 261:
+Context: Almost every child in big cities has the chance to go to school. Nine years' studying helps children to prepare for their future lives. In fact, many students can study for more than nine years. Not a...
+Q: Xiao Fang didn't go to school when she was younger because  _  .
+A: her family was too poor
+
+Passage-Question-Answer Set 262:
+Context: Almost every child in big cities has the chance to go to school. Nine years' studying helps children to prepare for their future lives. In fact, many students can study for more than nine years. Not a...
+Q: WithY=300,    _  .
+A: a child can go to school for a year
+
+Passage-Question-Answer Set 263:
+Context: Almost every child in big cities has the chance to go to school. Nine years' studying helps children to prepare for their future lives. In fact, many students can study for more than nine years. Not a...
+Q: Xiao Fang is studying in a school because   _  .
+A: Project Hope helped her
+
+Passage-Question-Answer Set 264:
+Context: Almost every child in big cities has the chance to go to school. Nine years' studying helps children to prepare for their future lives. In fact, many students can study for more than nine years. Not a...
+Q: Project Hope helps  _  .
+A: all the above
+
+Passage-Question-Answer Set 265:
+Context: The keys to reaching or staying at a healthy weight are regular exercise and good eating habits. Teens should get 60 minutes or more of physical activity a day. Note the word "activity". As long as yo...
+Q: The writer thinks many people probably misunderstand the word"activity" to be "  _  ".
+A: sports hall exercise
+
+Passage-Question-Answer Set 266:
+Context: The keys to reaching or staying at a healthy weight are regular exercise and good eating habits. Teens should get 60 minutes or more of physical activity a day. Note the word "activity". As long as yo...
+Q: When exercising, the most important fact is   _  .
+A: the right balance of activity
+
+Passage-Question-Answer Set 267:
+Context: The keys to reaching or staying at a healthy weight are regular exercise and good eating habits. Teens should get 60 minutes or more of physical activity a day. Note the word "activity". As long as yo...
+Q: The author advises dividing activity into shorter exercise breaks because   _  .
+A: people usually haven't much time to exercise
+
+Passage-Question-Answer Set 268:
+Context: The keys to reaching or staying at a healthy weight are regular exercise and good eating habits. Teens should get 60 minutes or more of physical activity a day. Note the word "activity". As long as yo...
+Q: What's the best title for this passage?
+A: Regular exercise.
+
+Passage-Question-Answer Set 269:
+Context: Malls are popular places for Americans to go. Some people spend so much time at malls that they are called "mall rats ". Mall rats shop until they drop in the hundreds of stores.
+People like malls for...
+Q: Here "mall" means "  _  ".
+A: a shopping center
+
+Passage-Question-Answer Set 270:
+Context: Malls are popular places for Americans to go. Some people spend so much time at malls that they are called "mall rats ". Mall rats shop until they drop in the hundreds of stores.
+People like malls for...
+Q: The largest mall in the United States  _  .
+A: has 350 shops in it
+
+Passage-Question-Answer Set 271:
+Context: Malls are popular places for Americans to go. Some people spend so much time at malls that they are called "mall rats ". Mall rats shop until they drop in the hundreds of stores.
+People like malls for...
+Q: The writer  _  .
+A: thinks malls make people's life easier
+
+Passage-Question-Answer Set 272:
+Context: Saturday morning was bright and fresh. There was a song in every heart, cheer on every face, and a _ in every step.
+Tom appeared with a bucket of white paint in one hand and a brush in the other. His ...
+Q: Why did Tom pretend not to see Ben when he came and watched him painting?
+A: He tried to make Ben interested in it.
+
+Passage-Question-Answer Set 273:
+Context: Saturday morning was bright and fresh. There was a song in every heart, cheer on every face, and a _ in every step.
+Tom appeared with a bucket of white paint in one hand and a brush in the other. His ...
+Q: What do you think of Tom?
+A: Smart.
+
+Passage-Question-Answer Set 274:
+Context: Obama has made history by becoming the first African-American in American history.
+Obama was born in Hawaii on August 4, 1961. His parents didn't live together when he was two years old and later divo...
+Q: How old was Obama when he became the American president?
+A: 48.
+
+Passage-Question-Answer Set 275:
+Context: Obama has made history by becoming the first African-American in American history.
+Obama was born in Hawaii on August 4, 1961. His parents didn't live together when he was two years old and later divo...
+Q: Obama's success tells us that   _  .
+A: a talented person can succeed if he works hard enough
+
+Passage-Question-Answer Set 276:
+Context: Obama has made history by becoming the first African-American in American history.
+Obama was born in Hawaii on August 4, 1961. His parents didn't live together when he was two years old and later divo...
+Q: According to the passage, Obama had to face the following challenges except for   _  .
+A: the population problem
+
+Passage-Question-Answer Set 277:
+Context: One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, "How heavy do you think this glass of water is?"
+The students' answers ranged from 20 g to 500 ...
+Q: The teacher brought a glass of water to the class because_.
+A: it was a good example
+
+Passage-Question-Answer Set 278:
+Context: One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, "How heavy do you think this glass of water is?"
+The students' answers ranged from 20 g to 500 ...
+Q: "A glass of water" in this passage referred to_.
+A: the burden
+
+Passage-Question-Answer Set 279:
+Context: One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, "How heavy do you think this glass of water is?"
+The students' answers ranged from 20 g to 500 ...
+Q: According to the teacher, you may feel        _    if you put down the burden sometimes.
+A: more relaxed
+
+Passage-Question-Answer Set 280:
+Context: One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, "How heavy do you think this glass of water is?"
+The students' answers ranged from 20 g to 500 ...
+Q: This was a lesson about       _   .
+A: how to relax oneself in life
+
+Passage-Question-Answer Set 281:
+Context: One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, "How heavy do you think this glass of water is?"
+The students' answers ranged from 20 g to 500 ...
+Q: Which of the following statements is TRUE according to the passage?
+A: The teacher had a good way of making his lesson clear and easy to be understood.
+
+Passage-Question-Answer Set 282:
+Context: Mr Brown is one of my friend . He can run very fast and likes to show people how fast he can run .
+One day , a thief  got into his house , took some of his things and ran out of the house fast . Mr. B...
+Q: Did the thief steal  anything from Mr. Brown's house ?
+A: Yes, he did .
+
+Passage-Question-Answer Set 283:
+Context: Mr Brown is one of my friend . He can run very fast and likes to show people how fast he can run .
+One day , a thief  got into his house , took some of his things and ran out of the house fast . Mr. B...
+Q: Who ran faster , Mr. Brown or the thief ?
+A: Mr. Brown
+
+Passage-Question-Answer Set 284:
+Context: Mr Brown is one of my friend . He can run very fast and likes to show people how fast he can run .
+One day , a thief  got into his house , took some of his things and ran out of the house fast . Mr. B...
+Q: Did Mr. Brown catch the thief?
+A: No, he didn't .
+
+Passage-Question-Answer Set 285:
+Context: Mr Brown is one of my friend . He can run very fast and likes to show people how fast he can run .
+One day , a thief  got into his house , took some of his things and ran out of the house fast . Mr. B...
+Q: What did Mr. Brown do when he found the thief ?
+A: He ran after him .
+
+Passage-Question-Answer Set 286:
+Context: Hello, dear friends! I'm Jenny. Please look at this photo. The girl in red is me. I'm 13. I have a sister and two brothers. My sister, Linda, is 15. She likes red and green. She has two red rulers and...
+Q: How old is Jenny? She is  _  .
+A: 13
+
+Passage-Question-Answer Set 287:
+Context: Hello, dear friends! I'm Jenny. Please look at this photo. The girl in red is me. I'm 13. I have a sister and two brothers. My sister, Linda, is 15. She likes red and green. She has two red rulers and...
+Q: _  has many English tapes.
+A: Alan
+
+Passage-Question-Answer Set 288:
+Context: Hello, dear friends! I'm Jenny. Please look at this photo. The girl in red is me. I'm 13. I have a sister and two brothers. My sister, Linda, is 15. She likes red and green. She has two red rulers and...
+Q: Linda has  _  volleyballs.
+A: two
+
+Passage-Question-Answer Set 289:
+Context: Hello, dear friends! I'm Jenny. Please look at this photo. The girl in red is me. I'm 13. I have a sister and two brothers. My sister, Linda, is 15. She likes red and green. She has two red rulers and...
+Q: Tom has  _  .
+A: two sisters and a brother
+
+Passage-Question-Answer Set 290:
+Context: Hello, dear friends! I'm Jenny. Please look at this photo. The girl in red is me. I'm 13. I have a sister and two brothers. My sister, Linda, is 15. She likes red and green. She has two red rulers and...
+Q: ?
+A: Tom is the youngest of the four children.
+
+Passage-Question-Answer Set 291:
+Context: Mr. and Mrs. Long had one daughter. Her name was Lena. She was eighteen years old. Lena lived with her parents and worked in an office. She had some friends, but she didn't like any of the boys very m...
+Q: Mr. and Mrs. Long had a   _  .
+A: daughter
+
+Passage-Question-Answer Set 292:
+Context: Mr. and Mrs. Long had one daughter. Her name was Lena. She was eighteen years old. Lena lived with her parents and worked in an office. She had some friends, but she didn't like any of the boys very m...
+Q: Lena worked   _  .
+A: in an office
+
+Passage-Question-Answer Set 293:
+Context: Mr. and Mrs. Long had one daughter. Her name was Lena. She was eighteen years old. Lena lived with her parents and worked in an office. She had some friends, but she didn't like any of the boys very m...
+Q: Lena had a few friends before she came to know Watts, but she   _  .
+A: liked no one very much
+
+Passage-Question-Answer Set 294:
+Context: Mr. and Mrs. Long had one daughter. Her name was Lena. She was eighteen years old. Lena lived with her parents and worked in an office. She had some friends, but she didn't like any of the boys very m...
+Q: Last week Lena asked her father   _  .
+A: to let her marry  Watts
+
+Passage-Question-Answer Set 295:
+Context: Mr. and Mrs. Long had one daughter. Her name was Lena. She was eighteen years old. Lena lived with her parents and worked in an office. She had some friends, but she didn't like any of the boys very m...
+Q: Lena got angry because   _  .
+A: her father and Watts only thought of money
+
+Passage-Question-Answer Set 296:
+Context: When you are in England, you must be very careful in the streets because the traffic drives on the left.
+Before you cross a street, you must look to the right first and then left. If the traffic light...
+Q: When you are in England, you must always remember that  _  .
+A: the traffic drives on the left.
+
+Passage-Question-Answer Set 297:
+Context: When you are in England, you must be very careful in the streets because the traffic drives on the left.
+Before you cross a street, you must look to the right first and then left. If the traffic light...
+Q: In China, before you cross a street, you must look to   _   first and then   _  .
+A: the left; the right
+
+Passage-Question-Answer Set 298:
+Context: When you are in England, you must be very careful in the streets because the traffic drives on the left.
+Before you cross a street, you must look to the right first and then left. If the traffic light...
+Q: You must be careful when you go by bus because   _  .
+A: you may go the wrong way
+
+Passage-Question-Answer Set 299:
+Context: When you are in England, you must be very careful in the streets because the traffic drives on the left.
+Before you cross a street, you must look to the right first and then left. If the traffic light...
+Q: In England, it is very interesting to   _  .
+A: sit on the second floor of a big bus and see the beautiful city
+
+Passage-Question-Answer Set 300:
+Context: When you are in England, you must be very careful in the streets because the traffic drives on the left.
+Before you cross a street, you must look to the right first and then left. If the traffic light...
+Q: Which is the best title ?
+A: Traffic in England
+
+Passage-Question-Answer Set 301:
+Context: Almost everyone likes dogs, and almost everyone likes to read about dogs. I have friend. He has a big police dog with the name Jack. Police dogs are very clever. Every Sunday afternoon my friend takes...
+Q: The young visitor stayed a long time in my friend's house, didn't he?
+A: Yes, he did.
+
+Passage-Question-Answer Set 302:
+Context: Almost everyone likes dogs, and almost everyone likes to read about dogs. I have friend. He has a big police dog with the name Jack. Police dogs are very clever. Every Sunday afternoon my friend takes...
+Q: Jack became worried because   _   .
+A: he wanted to go out for a walk
+
+Passage-Question-Answer Set 303:
+Context: Almost everyone likes dogs, and almost everyone likes to read about dogs. I have friend. He has a big police dog with the name Jack. Police dogs are very clever. Every Sunday afternoon my friend takes...
+Q: Jack sat down in front of the visitor because he wanted   _  .
+A: the visitor to leave the house soon
+
+Passage-Question-Answer Set 304:
+Context: Almost everyone likes dogs, and almost everyone likes to read about dogs. I have friend. He has a big police dog with the name Jack. Police dogs are very clever. Every Sunday afternoon my friend takes...
+Q: The visitor went on talking and   _  .
+A: he paid no attention to Jack
+
+Passage-Question-Answer Set 305:
+Context: Almost everyone likes dogs, and almost everyone likes to read about dogs. I have friend. He has a big police dog with the name Jack. Police dogs are very clever. Every Sunday afternoon my friend takes...
+Q: At last Jack took   _   in his mouth.
+A: the visitor's cap
+
+Passage-Question-Answer Set 306:
+Context: One day a big cat was going into a forest to find something to eat. On his way he met his friend, the old owl .  The owl greeted him, "Good morning, my dear friend. Where are you going?"  "I'm going t...
+Q: The cat went to the forest  _  .
+A: because he was hungry
+
+Passage-Question-Answer Set 307:
+Context: One day a big cat was going into a forest to find something to eat. On his way he met his friend, the old owl .  The owl greeted him, "Good morning, my dear friend. Where are you going?"  "I'm going t...
+Q: The old owl  _  the cat.
+A: knew
+
+Passage-Question-Answer Set 308:
+Context: One day a big cat was going into a forest to find something to eat. On his way he met his friend, the old owl .  The owl greeted him, "Good morning, my dear friend. Where are you going?"  "I'm going t...
+Q: When the cat saw the beautiful birds, he  _  .
+A: didn't eat any of them
+
+Passage-Question-Answer Set 309:
+Context: One day a big cat was going into a forest to find something to eat. On his way he met his friend, the old owl .  The owl greeted him, "Good morning, my dear friend. Where are you going?"  "I'm going t...
+Q: The old owl's children were  _  .
+A: ugly
+
+Passage-Question-Answer Set 310:
+Context: One day a big cat was going into a forest to find something to eat. On his way he met his friend, the old owl .  The owl greeted him, "Good morning, my dear friend. Where are you going?"  "I'm going t...
+Q: The owl's nest was  _  .
+A: on the ground
+
+Passage-Question-Answer Set 311:
+Context: Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a...
+Q: Li Shizhen's father was a  _  perhaps.
+A: doctor
+
+Passage-Question-Answer Set 312:
+Context: Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a...
+Q: He decided to write a new medical book because there were  _  .
+A: no good medical books
+
+Passage-Question-Answer Set 313:
+Context: Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a...
+Q: He often traveled long way for  _  .
+A: medicine
+
+Passage-Question-Answer Set 314:
+Context: Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a...
+Q: "his great work" means his  _  Ben Cao Gang Mu.
+A: book
+
+Passage-Question-Answer Set 315:
+Context: Li Shizhen was born in 1518. When he grew up, he liked his father's job and he was interested in medicine. He read many books about medicine and found something wrong in them. So he decided to write a...
+Q: He finished his work when he was  _  years old.
+A: sixty
+
+Passage-Question-Answer Set 316:
+Context: Nick is a student. He has four friends. They are Ben, Eric, Peter and Andy. But they are all very different. Nick is confident and kind. He is also a good listener. All of his friends like to talk to ...
+Q: What do you think of Ben?
+A: He is quiet, but fair and patient.
+
+Passage-Question-Answer Set 317:
+Context: Nick is a student. He has four friends. They are Ben, Eric, Peter and Andy. But they are all very different. Nick is confident and kind. He is also a good listener. All of his friends like to talk to ...
+Q: What is Nick's best quality?
+A: He is a good listener.
+
+Passage-Question-Answer Set 318:
+Context: Nick is a student. He has four friends. They are Ben, Eric, Peter and Andy. But they are all very different. Nick is confident and kind. He is also a good listener. All of his friends like to talk to ...
+Q: What is Peter like ?
+A: Outgoing
+
+Passage-Question-Answer Set 319:
+Context: Nick is a student. He has four friends. They are Ben, Eric, Peter and Andy. But they are all very different. Nick is confident and kind. He is also a good listener. All of his friends like to talk to ...
+Q: What is it kind of Andy to do ?
+A: To help Peter with his homework.
+
+Passage-Question-Answer Set 320:
+Context: Nick is a student. He has four friends. They are Ben, Eric, Peter and Andy. But they are all very different. Nick is confident and kind. He is also a good listener. All of his friends like to talk to ...
+Q: Who is always there to make sure that everyone stays friends when they have an argument?
+A: Ben
+
+Passage-Question-Answer Set 321:
+Context: Making friend is a skill. Like most skills, it improves with practice. If you want to meet people and make friends, you must be willing  to take some action. You must first go where there are people. ...
+Q: If you want to meet people and make friends, what should you do?
+A: All of the above
+
+Passage-Question-Answer Set 322:
+Context: Making friend is a skill. Like most skills, it improves with practice. If you want to meet people and make friends, you must be willing  to take some action. You must first go where there are people. ...
+Q: In the sentence "After all, meeting strangers means facing the unknown.", the word "unknown" means   _  .
+A: without somebody knowing
+
+Passage-Question-Answer Set 323:
+Context: Making friend is a skill. Like most skills, it improves with practice. If you want to meet people and make friends, you must be willing  to take some action. You must first go where there are people. ...
+Q: How do you feel more comfortable when you are with new people?
+A: Accept yourself as you are, and put the other as ease
+
+Passage-Question-Answer Set 324:
+Context: Making friend is a skill. Like most skills, it improves with practice. If you want to meet people and make friends, you must be willing  to take some action. You must first go where there are people. ...
+Q: If you'd like to speak to someone, what should you do?
+A: You should say something at first.
+
+Passage-Question-Answer Set 325:
+Context: Making friend is a skill. Like most skills, it improves with practice. If you want to meet people and make friends, you must be willing  to take some action. You must first go where there are people. ...
+Q: Friendship is based on  _
+A: each other's liking and "give and take"
+
+Passage-Question-Answer Set 326:
+Context: Please do not leave your valuables in your room unattended.
+The hotel provides safe deposit boxes at the reception desk.
+When you leave the hotel, please put your key at the reception desk.
+PLEASE DO ...
+Q: If you have some expensive things, where can you leave them when you live in the hotel?
+A: Put them in the safe deposit boxes.
+
+Passage-Question-Answer Set 327:
+Context: Please do not leave your valuables in your room unattended.
+The hotel provides safe deposit boxes at the reception desk.
+When you leave the hotel, please put your key at the reception desk.
+PLEASE DO ...
+Q: How much should the Biggers pay for the Hotel Rendezvous each night?
+A: $120
+
+Passage-Question-Answer Set 328:
+Context: Please do not leave your valuables in your room unattended.
+The hotel provides safe deposit boxes at the reception desk.
+When you leave the hotel, please put your key at the reception desk.
+PLEASE DO ...
+Q: When you take a bus, what can you do?
+A: Distract the driver when the bus is moving.
+
+Passage-Question-Answer Set 329:
+Context: Please do not leave your valuables in your room unattended.
+The hotel provides safe deposit boxes at the reception desk.
+When you leave the hotel, please put your key at the reception desk.
+PLEASE DO ...
+Q: Bruce likes skating, he can't   _   .
+A: skate at the local indoor ice rink
+
+Passage-Question-Answer Set 330:
+Context: Please do not leave your valuables in your room unattended.
+The hotel provides safe deposit boxes at the reception desk.
+When you leave the hotel, please put your key at the reception desk.
+PLEASE DO ...
+Q: Which is not TRUE according to the passage?
+A: The cheapest swimwear is $5.
+
+Passage-Question-Answer Set 331:
+Context: Anna was excited about starting her first day in the new school. However, when she first walked past the students in the school, her excitement turned to fear, and then to loneliness over the next few...
+Q: What was Anna's problem?
+A: She had no friends in her new school.
+
+Passage-Question-Answer Set 332:
+Context: Anna was excited about starting her first day in the new school. However, when she first walked past the students in the school, her excitement turned to fear, and then to loneliness over the next few...
+Q: Which of the following shows the change in Anna's feelings?
+A: excited-afraid-lonely-happy
+
+Passage-Question-Answer Set 333:
+Context: Anna was excited about starting her first day in the new school. However, when she first walked past the students in the school, her excitement turned to fear, and then to loneliness over the next few...
+Q: According to the writer, what is the easiest way to catch others' attention?
+A: Noticing them first
+
+Passage-Question-Answer Set 334:
+Context: Anna was excited about starting her first day in the new school. However, when she first walked past the students in the school, her excitement turned to fear, and then to loneliness over the next few...
+Q: What can you learn from the passage?
+A: Opening our heart to strangers can help us get friends.
+
+Passage-Question-Answer Set 335:
+Context: As part of the first International Hot Spring Culture and Tourism Festival in Xianning, Hubei Province, Miss Friendship International 2009 was held in Wuhan, Hubei, China from 20th October 2009 to 9th...
+Q: Xianning 1st International Hotspring cultural and Tourism Festival ended   _  .
+A: on 9th November
+
+Passage-Question-Answer Set 336:
+Context: As part of the first International Hot Spring Culture and Tourism Festival in Xianning, Hubei Province, Miss Friendship International 2009 was held in Wuhan, Hubei, China from 20th October 2009 to 9th...
+Q: Where did the gorgeous contestants come from?
+A: world
+
+Passage-Question-Answer Set 337:
+Context: As part of the first International Hot Spring Culture and Tourism Festival in Xianning, Hubei Province, Miss Friendship International 2009 was held in Wuhan, Hubei, China from 20th October 2009 to 9th...
+Q: What's the purpose of Miss International beauty contest?
+A: promote international friendship
+
+Passage-Question-Answer Set 338:
+Context: As part of the first International Hot Spring Culture and Tourism Festival in Xianning, Hubei Province, Miss Friendship International 2009 was held in Wuhan, Hubei, China from 20th October 2009 to 9th...
+Q: From the passage we know Xianning is famous for   _
+A: hot springs
+
+Passage-Question-Answer Set 339:
+Context: As part of the first International Hot Spring Culture and Tourism Festival in Xianning, Hubei Province, Miss Friendship International 2009 was held in Wuhan, Hubei, China from 20th October 2009 to 9th...
+Q: Which is true according to the passage?
+A: Xianning has become one of the most popular cities because of the Festival.
+
+Passage-Question-Answer Set 340:
+Context: My nine-year-old daughter, Maria, is in Year Four. Every evening we get into homework battles . Three afternoons a week, she has activities(netball, singing) after school and by the time we get home e...
+Q: The woman's daughter is  _  .
+A: nine years old
+
+Passage-Question-Answer Set 341:
+Context: My nine-year-old daughter, Maria, is in Year Four. Every evening we get into homework battles . Three afternoons a week, she has activities(netball, singing) after school and by the time we get home e...
+Q: Maria doesn't have any activities after school for  _  afternoons.
+A: two
+
+Passage-Question-Answer Set 342:
+Context: My nine-year-old daughter, Maria, is in Year Four. Every evening we get into homework battles . Three afternoons a week, she has activities(netball, singing) after school and by the time we get home e...
+Q: Maria want to  _  first when she gets home early.
+A: have a rest and play
+
+Passage-Question-Answer Set 343:
+Context: My nine-year-old daughter, Maria, is in Year Four. Every evening we get into homework battles . Three afternoons a week, she has activities(netball, singing) after school and by the time we get home e...
+Q: Can you guess where this passage is from?
+A: A newspaper.
+
+Passage-Question-Answer Set 344:
+Context: Grygori Pilikian spent his 114th birthday the other day and some reporters visited him to find out the secret of a long life.
+"The secret of a long life is happiness," Grygori said. "If you are happy,...
+Q: Some reporters visited Grygori because  _  .
+A: he had lived to be much longer than most people
+
+Passage-Question-Answer Set 345:
+Context: Grygori Pilikian spent his 114th birthday the other day and some reporters visited him to find out the secret of a long life.
+"The secret of a long life is happiness," Grygori said. "If you are happy,...
+Q: The writer wants to tell us  _  .
+A: drinking a little is helpful
+
+Passage-Question-Answer Set 346:
+Context: Grygori Pilikian spent his 114th birthday the other day and some reporters visited him to find out the secret of a long life.
+"The secret of a long life is happiness," Grygori said. "If you are happy,...
+Q: The best title for this passage is  _  .
+A: The Secret of a Long Life
+
+Passage-Question-Answer Set 347:
+Context: Old Cremona Violins
+Most musicians  agree that the best violins  were first made in Cremona, Italy, about 200 years ago. These violins sound better than any others. They even sound better than violins...
+Q: The passage is about  _  .
+A: the old Italian violins
+
+Passage-Question-Answer Set 348:
+Context: Old Cremona Violins
+Most musicians  agree that the best violins  were first made in Cremona, Italy, about 200 years ago. These violins sound better than any others. They even sound better than violins...
+Q: Other people think the Italian violin makers  _  .
+A: knew something special
+
+Passage-Question-Answer Set 349:
+Context: Old Cremona Violins
+Most musicians  agree that the best violins  were first made in Cremona, Italy, about 200 years ago. These violins sound better than any others. They even sound better than violins...
+Q: Violins made today  _  .
+A: have the same size and shape as the old ones
+
+Passage-Question-Answer Set 350:
+Context: Old Cremona Violins
+Most musicians  agree that the best violins  were first made in Cremona, Italy, about 200 years ago. These violins sound better than any others. They even sound better than violins...
+Q: Some scientists believe that the secret of the old violins was  _  .
+A: their varnish
+
+Passage-Question-Answer Set 351:
+Context: The summer sun is out, and we're beginning to feel the heat. Before you go outside to have fun, make sure you put on the right things!
+Do you know what kind of clothes can make you look hot and keep y...
+Q: This passage mainly tells us   _  .
+A: what colour to choose for summer clothes
+
+Passage-Question-Answer Set 352:
+Context: The summer sun is out, and we're beginning to feel the heat. Before you go outside to have fun, make sure you put on the right things!
+Do you know what kind of clothes can make you look hot and keep y...
+Q: Which of the following statements is true according to the passage?
+A: A floral shirt goes well with a light-coloured solid skirt.
+
+Passage-Question-Answer Set 353:
+Context: The summer sun is out, and we're beginning to feel the heat. Before you go outside to have fun, make sure you put on the right things!
+Do you know what kind of clothes can make you look hot and keep y...
+Q: Khaki cargo pants are special because they   _  .
+A: have enough pockets
+
+Passage-Question-Answer Set 354:
+Context: The summer sun is out, and we're beginning to feel the heat. Before you go outside to have fun, make sure you put on the right things!
+Do you know what kind of clothes can make you look hot and keep y...
+Q: Which of the following colours may not look good in summer according to the passage?
+A: black
+
+Passage-Question-Answer Set 355:
+Context: Now throwing shoes at President Bush is a popular game on the Internet. It turns out that there are times when it's good to throw shoes.
+After leaving his office in the center of the city, a young man...
+Q: The young man drove his new car   _  .
+A: home
+
+Passage-Question-Answer Set 356:
+Context: Now throwing shoes at President Bush is a popular game on the Internet. It turns out that there are times when it's good to throw shoes.
+After leaving his office in the center of the city, a young man...
+Q: Who threw a shoe at the car?
+A: A small boy
+
+Passage-Question-Answer Set 357:
+Context: Now throwing shoes at President Bush is a popular game on the Internet. It turns out that there are times when it's good to throw shoes.
+After leaving his office in the center of the city, a young man...
+Q: Why did the boy throw the shoe?
+A: Because her sister was hurt.
+
+Passage-Question-Answer Set 358:
+Context: Now throwing shoes at President Bush is a popular game on the Internet. It turns out that there are times when it's good to throw shoes.
+After leaving his office in the center of the city, a young man...
+Q: What can we learn from the story?
+A: We should be kind and helpful.
+
+Passage-Question-Answer Set 359:
+Context: I really love my job because I enjoy working with small children and like the challenges and awards from the job. I also think my work is important. I wasn't an excellent student because I didn't do m...
+Q: What do you think of the writer when she was a student?
+A: A lazy student
+
+Passage-Question-Answer Set 360:
+Context: I really love my job because I enjoy working with small children and like the challenges and awards from the job. I also think my work is important. I wasn't an excellent student because I didn't do m...
+Q: What is the writer's first job?
+A: A babysitter
+
+Passage-Question-Answer Set 361:
+Context: I really love my job because I enjoy working with small children and like the challenges and awards from the job. I also think my work is important. I wasn't an excellent student because I didn't do m...
+Q: When staying with the two girls' family,the writer   _  .
+A: often worked long hours
+
+Passage-Question-Answer Set 362:
+Context: I really love my job because I enjoy working with small children and like the challenges and awards from the job. I also think my work is important. I wasn't an excellent student because I didn't do m...
+Q: Why did the writer leave her first job?
+A: She decided to attend a part-time course.
+
+Passage-Question-Answer Set 363:
+Context: I really love my job because I enjoy working with small children and like the challenges and awards from the job. I also think my work is important. I wasn't an excellent student because I didn't do m...
+Q: What has the writer learned from her own experiences?
+A: Less successful students can still have a success.
+
+Passage-Question-Answer Set 364:
+Context: One thing that British and Chinese cultures share is a love for tea. Today, when we think of western tea culture, we often think of the English and beautiful china tea cups.
+Afternoon tea:
+People beli...
+Q: Anna introduced the idea of drinking afternoon tea because she   _  .
+A: found people felt hungry during the long wait between the two meals
+
+Passage-Question-Answer Set 365:
+Context: One thing that British and Chinese cultures share is a love for tea. Today, when we think of western tea culture, we often think of the English and beautiful china tea cups.
+Afternoon tea:
+People beli...
+Q: If someone says to you "Will you come for coffee?", you   _  .
+A: will be asked to have a chat with him or her
+
+Passage-Question-Answer Set 366:
+Context: One thing that British and Chinese cultures share is a love for tea. Today, when we think of western tea culture, we often think of the English and beautiful china tea cups.
+Afternoon tea:
+People beli...
+Q: Which is the best title for this article?
+A: English Tea and Coffee Culture
+
+Passage-Question-Answer Set 367:
+Context: Sonia lives in Sun District with her parents and sister. She loves this district very much. There is a restaurant next to her house. She often has lunch with her family there. A library is across from...
+Q: Where does Sonia live?
+A: Sun District
+
+Passage-Question-Answer Set 368:
+Context: Sonia lives in Sun District with her parents and sister. She loves this district very much. There is a restaurant next to her house. She often has lunch with her family there. A library is across from...
+Q: Sun Street is   _  in the evening
+A: crowed and busy
+
+Passage-Question-Answer Set 369:
+Context: Sonia lives in Sun District with her parents and sister. She loves this district very much. There is a restaurant next to her house. She often has lunch with her family there. A library is across from...
+Q: Who does Sonia often go to the library with?
+A: her sister
+
+Passage-Question-Answer Set 370:
+Context: Sonia lives in Sun District with her parents and sister. She loves this district very much. There is a restaurant next to her house. She often has lunch with her family there. A library is across from...
+Q: What can people buy from the mall?
+A: B and C
+
+Passage-Question-Answer Set 371:
+Context: Willam Shakespeare was a writer of plays and poems. Some of his most famous plays are Hamlet, Romeo and Juliet, Macbeth .He wrote thirty-seven plays in all. They are still popular today.
+He was born i...
+Q: Shakespeare wrote many famous plays except    _  .
+A: Man and Superman
+
+Passage-Question-Answer Set 372:
+Context: Willam Shakespeare was a writer of plays and poems. Some of his most famous plays are Hamlet, Romeo and Juliet, Macbeth .He wrote thirty-seven plays in all. They are still popular today.
+He was born i...
+Q: Shakespeare decided to be an actor in   _  .
+A: 1578
+
+Passage-Question-Answer Set 373:
+Context: Willam Shakespeare was a writer of plays and poems. Some of his most famous plays are Hamlet, Romeo and Juliet, Macbeth .He wrote thirty-seven plays in all. They are still popular today.
+He was born i...
+Q: In 1585, Shakespeare left his hometown Stratford-upon-Avon   _  .
+A: alone
+
+Passage-Question-Answer Set 374:
+Context: Willam Shakespeare was a writer of plays and poems. Some of his most famous plays are Hamlet, Romeo and Juliet, Macbeth .He wrote thirty-seven plays in all. They are still popular today.
+He was born i...
+Q: Shakespeare got much money from   _  .
+A: acting
+
+Passage-Question-Answer Set 375:
+Context: Willam Shakespeare was a writer of plays and poems. Some of his most famous plays are Hamlet, Romeo and Juliet, Macbeth .He wrote thirty-seven plays in all. They are still popular today.
+He was born i...
+Q: According to the passage, which of the following is TRUE?
+A: Shakespeare wrote both plays and poems.
+
+Passage-Question-Answer Set 376:
+Context: A taxi hit a truck. A policeman spoke to the taxi driver and to the truck driver. He also spoke to Tom. He was a witness . This is what they said.
+TRUCK DRIVER: I was driving from the airport to Newto...
+Q: How many people are mentioned in the story?
+A: Five.
+
+Passage-Question-Answer Set 377:
+Context: A taxi hit a truck. A policeman spoke to the taxi driver and to the truck driver. He also spoke to Tom. He was a witness . This is what they said.
+TRUCK DRIVER: I was driving from the airport to Newto...
+Q: The truck was going  _  .
+A: to Newton
+
+Passage-Question-Answer Set 378:
+Context: A taxi hit a truck. A policeman spoke to the taxi driver and to the truck driver. He also spoke to Tom. He was a witness . This is what they said.
+TRUCK DRIVER: I was driving from the airport to Newto...
+Q: From the story, we know  _  didn't tell the truth.
+A: the taxi driver
+
+Passage-Question-Answer Set 379:
+Context: A taxi hit a truck. A policeman spoke to the taxi driver and to the truck driver. He also spoke to Tom. He was a witness . This is what they said.
+TRUCK DRIVER: I was driving from the airport to Newto...
+Q: In fact, Tom's friend was also a   _   .
+A: witness
+
+Passage-Question-Answer Set 380:
+Context: A taxi hit a truck. A policeman spoke to the taxi driver and to the truck driver. He also spoke to Tom. He was a witness . This is what they said.
+TRUCK DRIVER: I was driving from the airport to Newto...
+Q: What's the best title for this passage?
+A: A Traffic Accident
+
+Passage-Question-Answer Set 381:
+Context: One day, my wife and I went shopping. We took the car as we had a lot of things to buy because my brother and his family were going to spend the weekend with us. We stopped the car in front of the sho...
+Q: The husband and the wife went shopping   _  .
+A: in their car
+
+Passage-Question-Answer Set 382:
+Context: One day, my wife and I went shopping. We took the car as we had a lot of things to buy because my brother and his family were going to spend the weekend with us. We stopped the car in front of the sho...
+Q: They spent   _   in the shop doing their shopping.
+A: one hour
+
+Passage-Question-Answer Set 383:
+Context: One day, my wife and I went shopping. We took the car as we had a lot of things to buy because my brother and his family were going to spend the weekend with us. We stopped the car in front of the sho...
+Q: The   _   opened the car door in the end.
+A: policeman
+
+Passage-Question-Answer Set 384:
+Context: One day, my wife and I went shopping. We took the car as we had a lot of things to buy because my brother and his family were going to spend the weekend with us. We stopped the car in front of the sho...
+Q: The owner of the car was very angry to see   _  .
+A: someone had opened his car door
+
+Passage-Question-Answer Set 385:
+Context: One day, my wife and I went shopping. We took the car as we had a lot of things to buy because my brother and his family were going to spend the weekend with us. We stopped the car in front of the sho...
+Q: They didn't know it was the wrong car until they looked at the   _   of the car.
+A: number
+
+Passage-Question-Answer Set 386:
+Context: Two strangers were sitting together in a plane . They were on a long journey . One of the men was a teacher . The other was a farmer .
+They sat without talking for a while , then the farmer said , " L...
+Q: At first the two men sat there without talking because   _   .
+A: they didn't know each other
+
+Passage-Question-Answer Set 387:
+Context: Two strangers were sitting together in a plane . They were on a long journey . One of the men was a teacher . The other was a farmer .
+They sat without talking for a while , then the farmer said , " L...
+Q: The farmer wanted to   _   .
+A: make the journey interesting .
+
+Passage-Question-Answer Set 388:
+Context: Two strangers were sitting together in a plane . They were on a long journey . One of the men was a teacher . The other was a farmer .
+They sat without talking for a while , then the farmer said , " L...
+Q: The teacher thought at first that the farmer   _   .
+A: would fail the game
+
+Passage-Question-Answer Set 389:
+Context: Two strangers were sitting together in a plane . They were on a long journey . One of the men was a teacher . The other was a farmer .
+They sat without talking for a while , then the farmer said , " L...
+Q: From the short story we know that   _   .
+A: an educated man is not always clever.
+
+Passage-Question-Answer Set 390:
+Context: Two strangers were sitting together in a plane . They were on a long journey . One of the men was a teacher . The other was a farmer .
+They sat without talking for a while , then the farmer said , " L...
+Q: The best title of this story is   _   .
+A: A Clever Farmer.
+
+Passage-Question-Answer Set 391:
+Context: Driving a car at a high speed along a highway seems to be fun. You need only to follow the bright traffic signs beside the highways and it will take you to where you wish. But to a London taxi driver,...
+Q: It is not easy to be a taxi driver in London because   _  .
+A: he has to know all the places in the city and serve all kinds of passengers at all the time
+
+Passage-Question-Answer Set 392:
+Context: Driving a car at a high speed along a highway seems to be fun. You need only to follow the bright traffic signs beside the highways and it will take you to where you wish. But to a London taxi driver,...
+Q: What is the passage about?
+A: Taxi divers' job in London.
+
+Passage-Question-Answer Set 393:
+Context: In the tenth grade, I began volunteering at a vet hospital in order to get experience for what I thought would be my future job. As it turned out, the experience I got at the hospital taught me the op...
+Q: Why did the writer work at the vet hospital?
+A: He wanted to get some experience for his future work.
+
+Passage-Question-Answer Set 394:
+Context: In the tenth grade, I began volunteering at a vet hospital in order to get experience for what I thought would be my future job. As it turned out, the experience I got at the hospital taught me the op...
+Q: What is the most important according to the writer?
+A: How to be a kind person who helps others.
+
+Passage-Question-Answer Set 395:
+Context: In the tenth grade, I began volunteering at a vet hospital in order to get experience for what I thought would be my future job. As it turned out, the experience I got at the hospital taught me the op...
+Q: _   made the writer have the courage to help someone in need.
+A: The woman
+
+Passage-Question-Answer Set 396:
+Context: We all know that food makes us grow every day, but sometimes it can make us happy when we feel bad. Food such as sea fish, bananas, pumpkins and chicken can help us be happy. How can they affect  our ...
+Q: Food gives us energy and sometimes   _  .
+A: it can affect our feelings
+
+Passage-Question-Answer Set 397:
+Context: We all know that food makes us grow every day, but sometimes it can make us happy when we feel bad. Food such as sea fish, bananas, pumpkins and chicken can help us be happy. How can they affect  our ...
+Q: Why do people living by the sea look happier?
+A: Because they have fresh air and eat sea fish.
+
+Passage-Question-Answer Set 398:
+Context: We all know that food makes us grow every day, but sometimes it can make us happy when we feel bad. Food such as sea fish, bananas, pumpkins and chicken can help us be happy. How can they affect  our ...
+Q: What food can make us more confident?
+A: Bananas.
+
+Passage-Question-Answer Set 399:
+Context: We all know that food makes us grow every day, but sometimes it can make us happy when we feel bad. Food such as sea fish, bananas, pumpkins and chicken can help us be happy. How can they affect  our ...
+Q: Which of the following is TRUE?
+A: Vitamin B6 and iron can make us happier.
+
+Passage-Question-Answer Set 400:
+Context: Good evening, ladies and gentlemen. Welcome to the nine o'clock Mystery Hour. Today we'll show you two British stories. We hope you'll enjoy them.
+About 900 years ago two green children arrived in a s...
+Q: What kind of story is talked about in this program?
+A: Mysteries.
+
+Passage-Question-Answer Set 401:
+Context: Good evening, ladies and gentlemen. Welcome to the nine o'clock Mystery Hour. Today we'll show you two British stories. We hope you'll enjoy them.
+About 900 years ago two green children arrived in a s...
+Q: Which sentence is TRUE about the two green children?
+A: Maybe they hadn't eaten enough for long before they reached the village.
+
+Passage-Question-Answer Set 402:
+Context: Good evening, ladies and gentlemen. Welcome to the nine o'clock Mystery Hour. Today we'll show you two British stories. We hope you'll enjoy them.
+About 900 years ago two green children arrived in a s...
+Q: What can we learn from the second story?
+A: Scientists are still not sure whether there is a monster or not in Loch Ness.
+
