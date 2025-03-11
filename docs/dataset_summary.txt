@@ -18,29 +18,29 @@ Data Structure:
    - An empty line separating each set
 
 Analysis Results:
-Total passages: 10
-Total characters: 8650
-Total questions: 41
-Unique words: 536
+Total passages: 100
+Total characters: 101202
+Total questions: 402
+Unique words: 2545
 
 Average statistics:
-  Article length: 865.00 characters
-  Questions per article: 4.10
-  Question length: 46.98 characters
-  Answer length: 17.32 characters
+  Article length: 1012.02 characters
+  Questions per article: 4.02
+  Question length: 45.83 characters
+  Answer length: 23.47 characters
 
 Mode lengths:
-  Question: 21 characters
+  Question: 39 characters
   Answer: 5 characters
 
 Most common words (excluding stop words):
-  it: 20
-  i: 20
-  you: 20
-  he: 20
-  she: 16
-  her: 16
-  s: 14
-  can: 13
-  there: 13
-  some: 13
+  you: 280
+  i: 252
+  he: 243
+  it: 230
+  was: 152
+  they: 142
+  people: 137
+  but: 129
+  that: 122
+  t: 117

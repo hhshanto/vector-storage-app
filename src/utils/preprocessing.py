@@ -77,8 +77,9 @@ def save_preprocessed_passages(preprocessed_passages, output_file):
     print(f"Preprocessed passages saved to {output_file}")
 
 if __name__ == "__main__":
-    folder_path = "../../data/selected_passages"
-    output_file = "../../data/preprocessed_passages.json"
+    # Use paths relative to the project root instead of the script location
+    folder_path = "./data/selected_passages"
+    output_file = "./data/preprocessed_passages.json"
     
     print(f"Looking for text files in: {os.path.abspath(folder_path)}")
     files = os.listdir(folder_path)
