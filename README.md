@@ -1,36 +1,32 @@
 # Vector Storage and Embedding Techniques Lab
 
-A comprehensive exploration of vector storage solutions and embedding techniques commonly used in modern AI applications, with a focus on Azure OpenAI and Hugging Face models.
+A comprehensive platform for exploring vector embeddings and efficient storage techniques for text data retrieval.
 
-## Project Goal
+## Overview
 
-This project aims to provide a hands-on learning experience and demonstration of various vector storage and embedding techniques. The goal is to understand the strengths and weaknesses of different approaches, their performance characteristics, and practical applications in AI and machine learning workflows.
+This project implements and compares various vector embedding strategies and storage solutions for semantic search applications. It provides a framework to preprocess text data, generate vector embeddings, store them efficiently, and implement similarity search methods.
 
-## Project Overview
+## Features
 
-This project demonstrates practical implementations of:
+- **Multiple Embedding Techniques**:
+  - Azure OpenAI API embeddings
+  - Hugging Face transformers models
+  - Support for dimensionality experiments
 
-### 1. Embedding Techniques
-- Azure OpenAI embeddings
-- Hugging Face Transformer-based embeddings
-- Custom embeddings
+- **Vector Storage Solutions**:
+  - FAISS (Facebook AI Similarity Search) implementation
+  - Optimized index structures for efficient retrieval
+  - Metadata management and persistence
 
-### 2. Vector Storage Solutions
-- FAISS (Facebook AI Similarity Search)
-- Potential for integration with other solutions like Chroma DB, Pinecone, or Milvus
+- **Data Processing**:
+  - Text preprocessing and normalization
+  - Passage extraction and formatting
+  - Question-answer pair handling
 
-### 3. Similarity Search Methods
-- Cosine Similarity
-- Euclidean Distance
-- Dot Product
-
-## Technical Skills Demonstrated
-
-- Vector Operations
-- Efficient Vector Storage
-- Similarity Search Algorithms
-- Integration with Cloud Services (Azure OpenAI)
-- Performance Optimization
+- **Search Capabilities**:
+  - Semantic similarity search
+  - Nearest neighbor algorithms
+  - Performance-optimized retrieval
 
 ## Installation
 
@@ -46,102 +42,84 @@ pip install -r requirements.txt
 
 ```
 vector-storage-app/
-├── src/
-│   ├── embeddings/
+├── src/                          # Core source code
+│   ├── embeddings/               # Embedding generation modules
 │   │   ├── create_embedding_azure.py
 │   │   └── create_embedding_huggingface.py
-│   ├── storage/
-│   │   └── (future vector storage implementations)
-│   └── utils/
+│   ├── storage/                  # Vector storage implementations
+│   │   └── (FAISS and other storage solutions)
+│   └── utils/                    # Utility functions
 │       ├── azure_openai_api_client.py
 │       └── azure_openai_embed_client.py
-├── tests/
-│   └── verify_embeddings.py
-├── data/
+├── tests/                        # Unit and integration tests
+│   ├── test_embeddings.py
+│   └── test_storage.py
+├── data/                         # Dataset files
 │   ├── preprocessed_passages.json
-│   └── embeddeddata/
-│       └── (generated embedding files)
-├── notebooks/
-│   └── (Jupyter notebooks for examples and analysis)
-├── .env
-├── .gitignore
-├── requirements.txt
-└── README.md
+│   ├── race_qa_pairs.txt
+│   ├── selected_passages/        # Individual passage files
+│   └── EmbeddedData/             # Generated embedding files
+├── notebooks/                    # Jupyter notebooks
+│   ├── embedding_dimensions.ipynb
+│   └── huggingface_embedding_models.ipynb
+├── docs/                         # Documentation
+│   ├── dataset_summary.txt
+│   └── FAISS.md                  # FAISS implementation details
+├── .env                          # Environment variables (API keys)
+├── requirements.txt              # Project dependencies
+└── CHANGELOG.md                  # Development progress tracking
 ```
 
 ## Usage Examples
 
-### 1. Creating Embeddings with Azure OpenAI
+### Generating Embeddings
 
 ```python
-from src.embeddings.create_embedding_azure import create_embeddings_for_dataset
+from src.embeddings.create_embedding_azure import generate_embeddings
 
-preprocessed_data = load_preprocessed_data("path/to/preprocessed_data.json")
-embeddings, model_info = create_embeddings_for_dataset(preprocessed_data)
+# Generate embeddings for a text passage
+text = "This is a sample passage for embedding generation"
+embedding = generate_embeddings(text)
 ```
 
-### 2. Creating Embeddings with Hugging Face
+### Vector Storage and Retrieval
 
 ```python
-from src.embeddings.create_embedding_huggingface import create_embeddings_for_dataset
+from src.storage.faiss_storage import FAISSIndex
 
-preprocessed_data = load_preprocessed_data("path/to/preprocessed_data.json")
-embeddings, model_info = create_embeddings_for_dataset(preprocessed_data)
+# Create and save an index
+index = FAISSIndex(dimension=1536)
+index.add_vectors(embeddings, metadata)
+index.save("data/EmbeddedData/my_index.faiss")
+
+# Search for similar vectors
+results = index.search(query_vector, k=5)
 ```
 
-### 3. Verifying Embeddings
+## Datasets
 
-```python
-from tests.verify_embeddings import verify_embeddings
+The project works with text passages from the RACE dataset (Reading Comprehension from Examinations), which includes:
+- Reading passages
+- Multiple-choice questions
+- Answer options
+- Correct answers
 
-verify_embeddings("path/to/embeddings.npz")
-```
+## Documentation
 
-## Embedding Models Used
+For detailed information about FAISS implementation, refer to FAISS.md.
 
-1. Azure OpenAI: text-embedding-ada-002
-2. Hugging Face: (<br />
-    'sentence-transformers/all-MiniLM-L6-v2': 'Compact and efficient model for sentence embeddings',<br />
-    'sentence-transformers/all-mpnet-base-v2': 'High-performance model for sentence embeddings',<br />
-    'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2': 'Multilingual model supporting 50+ languages',<br />
-    'sentence-transformers/distilbert-base-nli-stsb-mean-tokens': 'DistilBERT-based model for semantic similarity',<br />
-    'openai-gpt': 'OpenAI\'s GPT model for general-purpose text embeddings',<br />
-    'bert-base-uncased': 'Classic BERT model, widely used baseline',<br />
-    'roberta-base': 'Improved version of BERT',<br />
-    'xlm-roberta-base': 'Multilingual version of RoBERTa',<br />
-    'allenai/scibert_scivocab_uncased': 'Specialized BERT model for scientific text',<br />
-    'microsoft/deberta-base': 'Enhanced BERT model with disentangled attention'<br />
-)
+## Future Work
 
-## Results and Findings
-
-
-
-## Challenges and Learnings
-
-During this project, some challenges and learnings included:
-
-1. Integrating Azure OpenAI API for embedding generation
-2. Handling batch processing of embeddings for efficiency
-3. Comparing embeddings from different sources (Azure vs. Hugging Face)
-
-
-## Resources
-
-- [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [FAISS: A Library for Efficient Similarity Search](https://github.com/facebookresearch/faiss)
+Based on the project changelog, the following features are planned:
+- Additional embedding techniques (Word2Vec, Doc2Vec, FastText)
+- More vector storage solutions (ChromaDB, Pinecone, Milvus)
+- Advanced similarity search methods
+- Performance benchmarking and optimization
+- Web interface for demonstration
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Contact
-
-For any inquiries or collaboration opportunities, please reach out:
-
-- GitHub: [hhshanto](https://github.com/hhshanto)
-- LinkedIn: [mhasan-shanto](https://www.linkedin.com/in/mhasan-shanto/)
 
 ## License
 
